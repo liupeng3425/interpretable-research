@@ -1,3 +1,5 @@
+# Index
+
 * [Interpretable Policies for Reinforcement Learning by Genetic Programming](#interpretable-policies-for-reinforcement-learning-by-genetic-programming)
 * [Discovery Radiomics with CLEAR-DR: Interpretable Computer Aided  Diagnosis of Diabetic Retinopathy](#discovery-radiomics-with-clear-dr-interpretable-computer-aided--diagnosis-of-diabetic-retinopathy)
 * [Interpretation of Neural Networks is Fragile](#interpretation-of-neural-networks-is-fragile)
@@ -219,6 +221,7 @@
 * [Learning Interpretable Spatial Operations in a Rich 3D Blocks World](#learning-interpretable-spatial-operations-in-a-rich-3d-blocks-world)
 * [SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for  Predicting Chemical Properties](#smiles2vec-an-interpretable-general-purpose-deep-neural-network-for--predicting-chemical-properties)
 
+# Papers
 
 ## [Interpretable Policies for Reinforcement Learning by Genetic Programming](https://arxiv.org/abs/1712.04170)
 [(PDF)](https://arxiv.org/pdf/1712.04170)
