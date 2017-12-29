@@ -92,6 +92,16 @@
     * [Towards a New Interpretation of Separable Convolutions](#towards-a-new-interpretation-of-separable-convolutions)
     * [Interpretable Structure-Evolving LSTM](#interpretable-structure-evolving-lstm)
     * [Improving Interpretability of Deep Neural Networks with Semantic  Information](#improving-interpretability-of-deep-neural-networks-with-semantic--information)
+    * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](#infogail-interpretable-imitation-learning-from-visual-demonstrations)
+    * [Patchnet: Interpretable Neural Networks for Image Classification](#patchnet-interpretable-neural-networks-for-image-classification)
+    * [Unsupervised Learning of Disentangled and Interpretable Representations  from Sequential Data](#unsupervised-learning-of-disentangled-and-interpretable-representations--from-sequential-data)
+    * [Interpretable Convolutional Neural Networks](#interpretable-convolutional-neural-networks)
+    * [InterpNET: Neural Introspection for Interpretable Deep Learning](#interpnet-neural-introspection-for-interpretable-deep-learning)
+    * [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural  Networks](#minimalrnn-toward-more-interpretable-and-trainable-recurrent-neural--networks)
+    * [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](#beyond-sparsity-tree-regularization-of-deep-models-for-interpretability)
+    * [SPINE: SParse Interpretable Neural Embeddings](#spine-sparse-interpretable-neural-embeddings)
+    * [Improving the Adversarial Robustness and Interpretability of Deep Neural  Networks by Regularizing their Input Gradients](#improving-the-adversarial-robustness-and-interpretability-of-deep-neural--networks-by-regularizing-their-input-gradients)
+
 
 # Papers
 
@@ -1483,18 +1493,18 @@ Comments:
 
 Presented at NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
 
+Subjects:
 
 Machine Learning (stat.ML); Learning (cs.LG)
 
-`Authors:Gilles Vandewiele, Olivier Janssens, Femke Ongenae, Filip De Turck, Sofie Van Hoecke`
 
+Cite as:
 
 arXiv:1611.05722 [stat.ML]
 
  
 (or arXiv:1611.05722v1 [stat.ML] for this version)
 
-Subjects:
 
 > Abstract: Models obtained by decision tree induction techniques excel in being
 interpretable.However, they can be prone to overfitting, which results in a low
@@ -1518,12 +1528,12 @@ making it very interpretable, in contrast to ensemble techniques.
 
 `Authors:Ondrej Kuzelka, Jesse Davis, Steven Schockaert`
 
- 
-(or arXiv:1611.05722v1 [stat.ML] for this version)
 
+Comments:
 
 Presented at NIPS 2016 Workshop on Interpretable Machine Learning in Complex Systems
 
+Subjects:
 
 Artificial Intelligence (cs.AI)
 
@@ -3561,24 +3571,24 @@ embeddings outperform existing popular word embeddings on a diverse suite of
 benchmark downstream tasks.
 
 
-## [Large scale modeling of antimicrobial resistance with interpretable  classifiers](https://arxiv.org/abs/1612.01030)
-[(PDF)](https://arxiv.org/pdf/1612.01030)
+## [Improving the Adversarial Robustness and Interpretability of Deep Neural  Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
+[(PDF)](https://arxiv.org/pdf/1711.09404)
 
-`Authors:Alexandre Drouin, Frédéric Raymond, Gaël Letarte St-Pierre, Mario Marchand, Jacques Corbeil, François Laviolette`
+`Authors:Andrew Slavin Ross, Finale Doshi-Velez`
 
 
 Comments:
 
-Peer-reviewed and accepted for presentation at the Machine Learning for Health Workshop, NIPS 2016, Barcelona, Spain
+To appear in AAAI 2018
 
 Subjects:
 
-Genomics (q-bio.GN); Learning (cs.LG); Machine Learning (stat.ML)
+Learning (cs.LG); Cryptography and Security (cs.CR); Computer Vision and Pattern Recognition (cs.CV)
 
 
 Cite as:
 
-arXiv:1612.01030 [q-bio.GN]
+arXiv:1711.09404 [cs.LG]
 
  
 (or arXiv:1711.09404v1 [cs.LG] for this version)
@@ -3607,55 +3617,87 @@ interpretability and robustness in deep neural networks.
 ## [Interpretable Convolutional Neural Networks for Effective Translation  Initiation Site Prediction](https://arxiv.org/abs/1711.09558)
 [(PDF)](https://arxiv.org/pdf/1711.09558)
 
-`Authors:I. Lopez-Gazpio, M. Maritxalar, A. Gonzalez-Agirre, G. Rigau, L. Uria, E. Agirre`
+`Authors:Jasper Zuallaert, Mijung Kim, Yvan Saeys, Wesley De Neve`
 
 
 Comments:
 
-Preprint version, Knowledge-Based Systems (ISSN: 0950-7051). (2016)
+Presented at International Workshop on Deep Learning in Bioinformatics, Biomedicine, and Healthcare Informatics (DLB2H 2017) --- in conjunction with the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017)
 
 Subjects:
 
-Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Learning (cs.LG)
-
-
-DOI:
-
-10.1016/j.knosys.2016.12.013
+Genomics (q-bio.GN); Learning (cs.LG)
 
 
 Cite as:
 
-arXiv:1612.04868 [cs.CL]
+arXiv:1711.09558 [q-bio.GN]
 
  
-(or arXiv:1612.04868v1 [cs.CL] for this version)
+(or arXiv:1711.09558v1 [q-bio.GN] for this version)
 
 
-> Abstract: User acceptance of artificial intelligence agents might depend on their
-ability to explain their reasoning, which requires adding an interpretability
-layer that fa- cilitates users to understand their behavior. This paper focuses
-on adding an in- terpretable layer on top of Semantic Textual Similarity (STS),
-which measures the degree of semantic equivalence between two sentences. The
-interpretability layer is formalized as the alignment between pairs of segments
-across the two sentences, where the relation between the segments is labeled
-with a relation type and a similarity score. We present a publicly available
-dataset of sentence pairs annotated following the formalization. We then
-develop a system trained on this dataset which, given a sentence pair, explains
-what is similar and different, in the form of graded and typed segment
-alignments. When evaluated on the dataset, the system performs better than an
-informed baseline, showing that the dataset and task are well-defined and
-feasible. Most importantly, two user studies show how the system output can be
-used to automatically produce explanations in natural language. Users performed
-better when having access to the explanations, pro- viding preliminary evidence
-that our dataset and method to automatically produce explanations is useful in
-real applications.
+> Abstract: Thanks to rapidly evolving sequencing techniques, the amount of genomic data
+at our disposal is growing increasingly large. Determining the gene structure
+is a fundamental requirement to effectively interpret gene function and
+regulation. An important part in that determination process is the
+identification of translation initiation sites. In this paper, we propose a
+novel approach for automatic prediction of translation initiation sites,
+leveraging convolutional neural networks that allow for automatic feature
+extraction. Our experimental results demonstrate that we are able to improve
+the state-of-the-art approaches with a decrease of 75.2% in false positive rate
+and with a decrease of 24.5% in error rate on chosen datasets. Furthermore, an
+in-depth analysis of the decision-making process used by our predictive model
+shows that our neural network implicitly learns biologically relevant features
+from scratch, without any prior knowledge about the problem at hand, such as
+the Kozak consensus sequence, the influence of stop and start codons in the
+sequence and the presence of donor splice site patterns. In summary, our
+findings yield a better understanding of the internal reasoning of a
+convolutional neural network when applying such a neural network to genomic
+data.
+
+
+## [Interpretable Facial Relational Network Using Relational Importance](https://arxiv.org/abs/1711.10688)
+[(PDF)](https://arxiv.org/pdf/1711.10688)
+
+`Authors:Seong Tae Kim, Yong Man Ro`
+
+
+Subjects:
+
+Computer Vision and Pattern Recognition (cs.CV)
+
+
+Cite as:
+
+arXiv:1711.10688 [cs.CV]
+
+ 
+(or arXiv:1711.10688v1 [cs.CV] for this version)
+
+
+> Abstract: Human face analysis is an important task in computer vision. According to
+cognitive-psychological studies, facial dynamics could provide crucial cues for
+face analysis. In particular, the motion of facial local regions in facial
+expression is related to the motion of other facial regions. In this paper, a
+novel deep learning approach which exploits the relations of facial local
+dynamics has been proposed to estimate facial traits from expression sequence.
+In order to exploit the relations of facial dynamics in local regions, the
+proposed network consists of a facial local dynamic feature encoding network
+and a facial relational network. The facial relational network is designed to
+be interpretable. Relational importance is automatically encoded and facial
+traits are estimated by combining relational features based on the relational
+importance. The relations of facial dynamics for facial trait estimation could
+be interpreted by using the relational importance. By comparative experiments,
+the effectiveness of the proposed method has been validated. Experimental
+results show that the proposed method outperforms the state-of-the-art methods
+in gender and age estimation.
 
 
 ## [An interpretable latent variable model for attribute applicability in  the Amazon catalogue](https://arxiv.org/abs/1712.00126)
 [(PDF)](https://arxiv.org/pdf/1712.00126)
 
-`Authors:Ethan R. Elenberg, Alexandros G. Dimakis, Moran Feldman, Amin Karbasi`
+`Authors:Tammo Rukat, Dustin Lange, Cédric Archambeau`
 
 
 Comments:
@@ -3693,7 +3735,7 @@ Preliminary results show that the model improves over the baseline in 17 out of
 ## [Where Classification Fails, Interpretation Rises](https://arxiv.org/abs/1712.00558)
 [(PDF)](https://arxiv.org/pdf/1712.00558)
 
-`Authors:Xiaodan Liang, Liang Lin, Xiaohui Shen, Jiashi Feng, Shuicheng Yan, Eric P. Xing`
+`Authors:Chanh Nguyen, Georgi Georgiev, Yujie Ji, Ting Wang`
 
 
 Comments:
@@ -3735,30 +3777,35 @@ for designing adversarial input detection methods.
 
 Subjects:
 
-Computer Vision and Pattern Recognition (cs.CV)
+Machine Learning (stat.ML); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Learning (cs.LG)
 
 
 Cite as:
 
-arXiv:1703.04096 [cs.CV]
+arXiv:1712.02034 [stat.ML]
 
  
-(or arXiv:1703.04096v2 [cs.CV] for this version)
+(or arXiv:1712.02034v1 [stat.ML] for this version)
 
 
-> Abstract: Interpretability of deep neural networks (DNNs) is essential since it enables
-users to understand the overall strengths and weaknesses of the models, conveys
-an understanding of how the models will behave in the future, and how to
-diagnose and correct potential problems. However, it is challenging to reason
-about what a DNN actually does due to its opaque or black-box nature. To
-address this issue, we propose a novel technique to improve the
-interpretability of DNNs by leveraging the rich semantic information embedded
-in human descriptions. By concentrating on the video captioning task, we first
-extract a set of semantically meaningful topics from the human descriptions
-that cover a wide range of visual concepts, and integrate them into the model
-with an interpretive loss. We then propose a prediction difference maximization
-algorithm to interpret the learned features of each neuron. Experimental
-results demonstrate its effectiveness in video captioning using the
-interpretable features, which can also be transferred to video action
-recognition. By clearly understanding the learned features, users can easily
-revise false predictions via a human-in-the-loop procedure.
+> Abstract: Chemical databases store information in text representations, and the SMILES
+format is a universal standard used in many cheminformatics software. Encoded
+in each SMILES string is structural information that can be used to predict
+complex chemical properties. In this work, we develop SMILES2Vec, a deep RNN
+that automatically learns features from SMILES strings to predict chemical
+properties, without the need for additional explicit chemical information, or
+the "grammar" of how SMILES encode structural data. Using Bayesian optimization
+methods to tune the network architecture, we show that an optimized SMILES2Vec
+model can serve as a general-purpose neural network for learning a range of
+distinct chemical properties including toxicity, activity, solubility and
+solvation energy, while outperforming contemporary MLP networks that uses
+engineered features. Furthermore, we demonstrate proof-of-concept of
+interpretability by developing an explanation mask that localizes on the most
+important characters used in making a prediction. When tested on the solubility
+dataset, this localization identifies specific parts of a chemical that is
+consistent with established first-principles knowledge of solubility with an
+accuracy of 88%, demonstrating that neural networks can learn technically
+accurate chemical concepts. The fact that SMILES2Vec validates established
+chemical facts, while providing state-of-the-art accuracy, makes it a potential
+tool for widespread adoption of interpretable deep learning by the chemistry
+community.
