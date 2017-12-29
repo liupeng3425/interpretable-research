@@ -18,11 +18,29 @@
     * [Interpreting Neural Networks to Improve Politeness Comprehension](#interpreting-neural-networks-to-improve-politeness-comprehension)
     * [Interpretable Semantic Textual Similarity: Finding and explaining  differences between sentences](#interpretable-semantic-textual-similarity-finding-and-explaining--differences-between-sentences)
     * [Streaming Weak Submodularity: Interpreting Neural Networks on the Fly](#streaming-weak-submodularity-interpreting-neural-networks-on-the-fly)
+    * [Interpretable Learning for Self-Driving Cars by Visualizing Causal  Attention](#interpretable-learning-for-self-driving-cars-by-visualizing-causal--attention)
+    * [Interpretable 3D Human Action Analysis with Temporal Convolutional  Networks](#interpretable-3d-human-action-analysis-with-temporal-convolutional--networks)
+    * [An Interpretable Knowledge Transfer Model for Knowledge Base Completion](#an-interpretable-knowledge-transfer-model-for-knowledge-base-completion)
+    * [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis  Network](#mdnet-a-semantically-and-visually-interpretable-medical-image-diagnosis--network)
+    * [Interpretable Active Learning](#interpretable-active-learning)
+    * [DeepFaceLIFT: Interpretable Personalized Models for Automatic Estimation  of Self-Reported Pain](#deepfacelift-interpretable-personalized-models-for-automatic-estimation--of-self-reported-pain)
+    * [More cat than cute? Interpretable Prediction of Adjective-Noun Pairs](#more-cat-than-cute-interpretable-prediction-of-adjective-noun-pairs)
+    * [Interpretable Categorization of Heterogeneous Time Series Data](#interpretable-categorization-of-heterogeneous-time-series-data)
+    * [Interpretable Graph-Based Semi-Supervised Learning via Flows](#interpretable-graph-based-semi-supervised-learning-via-flows)
+    * [CTD: Fast, Accurate, and Interpretable Method for Static and Dynamic  Tensor Decompositions](#ctd-fast-accurate-and-interpretable-method-for-static-and-dynamic--tensor-decompositions)
+    * [Interpretable Machine Learning for Privacy-Preserving Pervasive Systems](#interpretable-machine-learning-for-privacy-preserving-pervasive-systems)
+    * [Interpretable Convolutional Neural Networks for Effective Translation  Initiation Site Prediction](#interpretable-convolutional-neural-networks-for-effective-translation--initiation-site-prediction)
+    * [Interpretable Facial Relational Network Using Relational Importance](#interpretable-facial-relational-network-using-relational-importance)
+    * [SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for  Predicting Chemical Properties](#smiles2vec-an-interpretable-general-purpose-deep-neural-network-for--predicting-chemical-properties)
     
+1. Determine interpretability of CNN
+    * [Network Dissection: Quantifying Interpretability of Deep Visual  Representations](#network-dissection-quantifying-interpretability-of-deep-visual--representations)
+    * [A Formal Framework to Characterize Interpretability of Procedures](#a-formal-framework-to-characterize-interpretability-of-procedures)
     
 1. Criticize
     * [Interpretation of Neural Networks is Fragile](#interpretation-of-neural-networks-is-fragile)
-
+    * [The Promise and Peril of Human Evaluation for Model Interpretability](#the-promise-and-peril-of-human-evaluation-for-model-interpretability)
+    
 1. Interpret existing model
     * [Artificial Intelligence as Structural Estimation: Economic  Interpretations of Deep Blue, Bonanza, and AlphaGo](#artificial-intelligence-as-structural-estimation-economic--interpretations-of-deep-blue-bonanza-and-alphago)
     * [Semantic Structure and Interpretability of Word Embeddings](#semantic-structure-and-interpretability-of-word-embeddings)
@@ -39,9 +57,23 @@
     * [Interpretable Recurrent Neural Networks Using Sequential Sparse Recovery](#interpretable-recurrent-neural-networks-using-sequential-sparse-recovery)
     * [An unexpected unity among methods for interpreting model predictions](#an-unexpected-unity-among-methods-for-interpreting-model-predictions)
     * [Towards A Rigorous Science of Interpretable Machine Learning](#towards-a-rigorous-science-of-interpretable-machine-learning)
+    * [Softmax Q-Distribution Estimation for Structured Prediction: A  Theoretical Interpretation for RAML](#softmax-q-distribution-estimation-for-structured-prediction-a--theoretical-interpretation-for-raml)
+    * [A Unified Approach to Interpreting Model Predictions](#a-unified-approach-to-interpreting-model-predictions)
+    * [Interpreting Blackbox Models via Model Extraction](#interpreting-blackbox-models-via-model-extraction)
+    * [Interpretable &amp; Explorable Approximations of Black Box Models](#interpretable--explorable-approximations-of-black-box-models)
+    * [Interpretability via Model Extraction](#interpretability-via-model-extraction)
+    * [Methods for Interpreting and Understanding Deep Neural Networks](#methods-for-interpreting-and-understanding-deep-neural-networks)
+    * [Interpreting Classifiers through Attribute Interactions in Datasets](#interpreting-classifiers-through-attribute-interactions-in-datasets)
+    * [Using Program Induction to Interpret Transition System Dynamics](#using-program-induction-to-interpret-transition-system-dynamics)
+    * [Warp: a method for neural network interpretability applied to gene  expression profiles](#warp-a-method-for-neural-network-interpretability-applied-to-gene--expression-profiles)
+    * [Towards Interpretable Deep Neural Networks by Leveraging Adversarial  Examples](#towards-interpretable-deep-neural-networks-by-leveraging-adversarial--examples)
+    * [Explainable Artificial Intelligence: Understanding, Visualizing and  Interpreting Deep Learning Models](#explainable-artificial-intelligence-understanding-visualizing-and--interpreting-deep-learning-models)
+    * [Interpreting Shared Deep Learning Models via Explicable Boundary Trees](#interpreting-shared-deep-learning-models-via-explicable-boundary-trees)
+    * [Unleashing the Potential of CNNs for Interpretable Few-Shot Learning](#unleashing-the-potential-of-cnns-for-interpretable-few-shot-learning)
+    * [Train, Diagnose and Fix: Interpretable Approach for Fine-grained Action  Recognition](#train-diagnose-and-fix-interpretable-approach-for-fine-grained-action--recognition)
+    * [An interpretable latent variable model for attribute applicability in  the Amazon catalogue](#an-interpretable-latent-variable-model-for-attribute-applicability-in--the-amazon-catalogue)
+    * [Where Classification Fails, Interpretation Rises](#where-classification-fails-interpretation-rises)
     
-    
-
 1. Attempt to improve interpretability
     * [Contextual Regression: An Accurate and Conveniently Interpretable  Nonlinear Model for Mining Discovery from Scientific Data](#contextual-regression-an-accurate-and-conveniently-interpretable--nonlinear-model-for-mining-discovery-from-scientific-data)
     * [Interpretable R-CNN](#interpretable-r-cnn)
@@ -60,100 +92,16 @@
     * [Towards a New Interpretation of Separable Convolutions](#towards-a-new-interpretation-of-separable-convolutions)
     * [Interpretable Structure-Evolving LSTM](#interpretable-structure-evolving-lstm)
     * [Improving Interpretability of Deep Neural Networks with Semantic  Information](#improving-interpretability-of-deep-neural-networks-with-semantic--information)
-    
-    
+    * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](#infogail-interpretable-imitation-learning-from-visual-demonstrations)
+    * [Patchnet: Interpretable Neural Networks for Image Classification](#patchnet-interpretable-neural-networks-for-image-classification)
+    * [Unsupervised Learning of Disentangled and Interpretable Representations  from Sequential Data](#unsupervised-learning-of-disentangled-and-interpretable-representations--from-sequential-data)
+    * [Interpretable Convolutional Neural Networks](#interpretable-convolutional-neural-networks)
+    * [InterpNET: Neural Introspection for Interpretable Deep Learning](#interpnet-neural-introspection-for-interpretable-deep-learning)
+    * [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural  Networks](#minimalrnn-toward-more-interpretable-and-trainable-recurrent-neural--networks)
+    * [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](#beyond-sparsity-tree-regularization-of-deep-models-for-interpretability)
+    * [SPINE: SParse Interpretable Neural Embeddings](#spine-sparse-interpretable-neural-embeddings)
+    * [Improving the Adversarial Robustness and Interpretability of Deep Neural  Networks by Regularizing their Input Gradients](#improving-the-adversarial-robustness-and-interpretability-of-deep-neural--networks-by-regularizing-their-input-gradients)
 
-    
-* [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](#infogail-interpretable-imitation-learning-from-visual-demonstrations)
-* [Interpretable Learning for Self-Driving Cars by Visualizing Causal  Attention](#interpretable-learning-for-self-driving-cars-by-visualizing-causal--attention)
-* [Open Programming Language Interpreters](#open-programming-language-interpreters)
-* [Dempster-Shafer Belief Function - A New Interpretation](#dempster-shafer-belief-function---a-new-interpretation)
-* [A correlation game for unsupervised learning yields computational  interpretations of Hebbian excitation, anti-Hebbian inhibition, and synapse  elimination](#a-correlation-game-for-unsupervised-learning-yields-computational--interpretations-of-hebbian-excitation-anti-hebbian-inhibition-and-synapse--elimination)
-* [Transferrable Plausibility Model - A Probabilistic Interpretation of  Mathematical Theory of Evidence](#transferrable-plausibility-model---a-probabilistic-interpretation-of--mathematical-theory-of-evidence)
-* [Interpretable 3D Human Action Analysis with Temporal Convolutional  Networks](#interpretable-3d-human-action-analysis-with-temporal-convolutional--networks)
-* [An Interpretable Knowledge Transfer Model for Knowledge Base Completion](#an-interpretable-knowledge-transfer-model-for-knowledge-base-completion)
-* [Network Dissection: Quantifying Interpretability of Deep Visual  Representations](#network-dissection-quantifying-interpretability-of-deep-visual--representations)
-* [Accurately and Efficiently Interpreting Human-Robot Instructions of  Varying Granularities](#accurately-and-efficiently-interpreting-human-robot-instructions-of--varying-granularities)
-* [Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual  Machine Translation](#sarcasm-sign-interpreting-sarcasm-with-sentiment-based-monolingual--machine-translation)
-* [Abstract Interpretation with Unfoldings](#abstract-interpretation-with-unfoldings)
-* [Verifying Programs via Intermediate Interpretation](#verifying-programs-via-intermediate-interpretation)
-* [Induction of Interpretable Possibilistic Logic Theories from Relational  Data](#induction-of-interpretable-possibilistic-logic-theories-from-relational--data)
-* [Softmax Q-Distribution Estimation for Structured Prediction: A  Theoretical Interpretation for RAML](#softmax-q-distribution-estimation-for-structured-prediction-a--theoretical-interpretation-for-raml)
-* [Logic Tensor Networks for Semantic Image Interpretation](#logic-tensor-networks-for-semantic-image-interpretation)
-* [Patchnet: Interpretable Neural Networks for Image Classification](#patchnet-interpretable-neural-networks-for-image-classification)
-* [Interpreting and Extending The Guided Filter Via Cyclic Coordinate  Descent](#interpreting-and-extending-the-guided-filter-via-cyclic-coordinate--descent)
-* [Question-Answering with Grammatically-Interpretable Representations](#question-answering-with-grammatically-interpretable-representations)
-* [A Unified Approach to Interpreting Model Predictions](#a-unified-approach-to-interpreting-model-predictions)
-* [Interpreting Blackbox Models via Model Extraction](#interpreting-blackbox-models-via-model-extraction)
-* [Automating Carotid Intima-Media Thickness Video Interpretation with  Convolutional Neural Networks](#automating-carotid-intima-media-thickness-video-interpretation-with--convolutional-neural-networks)
-* [Well quasi-orders and the functional interpretation](#well-quasi-orders-and-the-functional-interpretation)
-* [Interpretable &amp; Explorable Approximations of Black Box Models](#interpretable--explorable-approximations-of-black-box-models)
-* [Combining Forward and Backward Abstract Interpretation of Horn Clauses](#combining-forward-and-backward-abstract-interpretation-of-horn-clauses)
-* [Interpretability via Model Extraction](#interpretability-via-model-extraction)
-* [TIP: Typifying the Interpretability of Procedures](#tip-typifying-the-interpretability-of-procedures)
-* [Methods for Interpreting and Understanding Deep Neural Networks](#methods-for-interpreting-and-understanding-deep-neural-networks)
-* [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis  Network](#mdnet-a-semantically-and-visually-interpretable-medical-image-diagnosis--network)
-* [Identification and Interpretation of Belief Structure in Dempster-Shafer  Theory](#identification-and-interpretation-of-belief-structure-in-dempster-shafer--theory)
-* [A Formal Framework to Characterize Interpretability of Procedures](#a-formal-framework-to-characterize-interpretability-of-procedures)
-* [Rotations and Interpretability of Word Embeddings: the Case of the  Russian Language](#rotations-and-interpretability-of-word-embeddings-the-case-of-the--russian-language)
-* [Interpreting Classifiers through Attribute Interactions in Datasets](#interpreting-classifiers-through-attribute-interactions-in-datasets)
-* [Unsupervised, Knowledge-Free, and Interpretable Word Sense  Disambiguation](#unsupervised-knowledge-free-and-interpretable-word-sense--disambiguation)
-* [Abstracting Definitional Interpreters](#abstracting-definitional-interpreters)
-* [PunFields at SemEval-2017 Task 7: Employing Roget's Thesaurus in  Automatic Pun Recognition and Interpretation](#punfields-at-semeval-2017-task-7-employing-rogets-thesaurus-in--automatic-pun-recognition-and-interpretation)
-* [Eigenlogic: Interpretable Quantum Observables with applications to Fuzzy  Behavior of Vehicular Robots](#eigenlogic-interpretable-quantum-observables-with-applications-to-fuzzy--behavior-of-vehicular-robots)
-* [Witness-Functions versus Interpretation-Functions for Secrecy in  Cryptographic Protocols: What to Choose?](#witness-functions-versus-interpretation-functions-for-secrecy-in--cryptographic-protocols-what-to-choose)
-* [A Tale of Two DRAGGNs: A Hybrid Approach for Interpreting  Action-Oriented and Goal-Oriented Instructions](#a-tale-of-two-draggns-a-hybrid-approach-for-interpreting--action-oriented-and-goal-oriented-instructions)
-* [Interpretable Active Learning](#interpretable-active-learning)
-* [Kinematic interpretation of the Study quadric's ambient space](#kinematic-interpretation-of-the-study-quadrics-ambient-space)
-* [Using Program Induction to Interpret Transition System Dynamics](#using-program-induction-to-interpret-transition-system-dynamics)
-* [Proceedings of the 2017 ICML Workshop on Human Interpretability in  Machine Learning (WHI 2017)](#proceedings-of-the-2017-icml-workshop-on-human-interpretability-in--machine-learning-whi-2017)
-* [Warp: a method for neural network interpretability applied to gene  expression profiles](#warp-a-method-for-neural-network-interpretability-applied-to-gene--expression-profiles)
-* [Exploiting Semantic Contextualization for Interpretation of Human  Activity in Videos](#exploiting-semantic-contextualization-for-interpretation-of-human--activity-in-videos)
-* [DeepFaceLIFT: Interpretable Personalized Models for Automatic Estimation  of Self-Reported Pain](#deepfacelift-interpretable-personalized-models-for-automatic-estimation--of-self-reported-pain)
-* [Towards Interpretable Deep Neural Networks by Leveraging Adversarial  Examples](#towards-interpretable-deep-neural-networks-by-leveraging-adversarial--examples)
-* [More cat than cute? Interpretable Prediction of Adjective-Noun Pairs](#more-cat-than-cute-interpretable-prediction-of-adjective-noun-pairs)
-* [A Computational Interpretation of Context-Free Expressions](#a-computational-interpretation-of-context-free-expressions)
-* [Verification of Programs via Intermediate Interpretation](#verification-of-programs-via-intermediate-interpretation)
-* [Interpretable Categorization of Heterogeneous Time Series Data](#interpretable-categorization-of-heterogeneous-time-series-data)
-* [Interpretation of Mammogram and Chest X-Ray Reports Using Deep Neural  Networks - Preliminary Results](#interpretation-of-mammogram-and-chest-x-ray-reports-using-deep-neural--networks---preliminary-results)
-* [Explainable Artificial Intelligence: Understanding, Visualizing and  Interpreting Deep Learning Models](#explainable-artificial-intelligence-understanding-visualizing-and--interpreting-deep-learning-models)
-* [Interpreting Shared Deep Learning Models via Explicable Boundary Trees](#interpreting-shared-deep-learning-models-via-explicable-boundary-trees)
-* [Balancing Interpretability and Predictive Accuracy for Unsupervised  Tensor Mining](#balancing-interpretability-and-predictive-accuracy-for-unsupervised--tensor-mining)
-* [Interpretable Graph-Based Semi-Supervised Learning via Flows](#interpretable-graph-based-semi-supervised-learning-via-flows)
-* [Unsupervised Learning of Disentangled and Interpretable Representations  from Sequential Data](#unsupervised-learning-of-disentangled-and-interpretable-representations--from-sequential-data)
-* [Flow-Sensitive Composition of Thread-Modular Abstract Interpretation](#flow-sensitive-composition-of-thread-modular-abstract-interpretation)
-* [MobInsight: A Framework Using Semantic Neighborhood Features for  Localized Interpretations of Urban Mobility](#mobinsight-a-framework-using-semantic-neighborhood-features-for--localized-interpretations-of-urban-mobility)
-* [Deep Convolutional Neural Networks for Interpretable Analysis of EEG  Sleep Stage Scoring](#deep-convolutional-neural-networks-for-interpretable-analysis-of-eeg--sleep-stage-scoring)
-* [CTD: Fast, Accurate, and Interpretable Method for Static and Dynamic  Tensor Decompositions](#ctd-fast-accurate-and-interpretable-method-for-static-and-dynamic--tensor-decompositions)
-* [Interpretable Convolutional Neural Networks](#interpretable-convolutional-neural-networks)
-* [Multimodal Observation and Interpretation of Subjects Engaged in Problem  Solving](#multimodal-observation-and-interpretation-of-subjects-engaged-in-problem--solving)
-* [Fundamental Limitations in Performance and Interpretability of Common  Planar Rigid-Body Contact Models](#fundamental-limitations-in-performance-and-interpretability-of-common--planar-rigid-body-contact-models)
-* [Interpretable Machine Learning for Privacy-Preserving Pervasive Systems](#interpretable-machine-learning-for-privacy-preserving-pervasive-systems)
-* [Regularizing Deep Neural Networks by Noise: Its Interpretation and  Optimization](#regularizing-deep-neural-networks-by-noise-its-interpretation-and--optimization)
-* [InterpNET: Neural Introspection for Interpretable Deep Learning](#interpnet-neural-introspection-for-interpretable-deep-learning)
-* [Communication Dualism in Distributed Systems with Petri Net  Interpretation](#communication-dualism-in-distributed-systems-with-petri-net--interpretation)
-* [Interpreting Contextual Effects By Contextual Modeling In Recommender  Systems](#interpreting-contextual-effects-by-contextual-modeling-in-recommender--systems)
-* [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural  Networks](#minimalrnn-toward-more-interpretable-and-trainable-recurrent-neural--networks)
-* [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](#beyond-sparsity-tree-regularization-of-deep-models-for-interpretability)
-* [Low-dimensional Embeddings for Interpretable Anchor-based Topic  Inference](#low-dimensional-embeddings-for-interpretable-anchor-based-topic--inference)
-* [Abstract Interpretation of Binary Code with Memory Accesses using  Polyhedra](#abstract-interpretation-of-binary-code-with-memory-accesses-using--polyhedra)
-* [The Promise and Peril of Human Evaluation for Model Interpretability](#the-promise-and-peril-of-human-evaluation-for-model-interpretability)
-* [Vision-and-Language Navigation: Interpreting visually-grounded  navigation instructions in real environments](#vision-and-language-navigation-interpreting-visually-grounded--navigation-instructions-in-real-environments)
-* [Unleashing the Potential of CNNs for Interpretable Few-Shot Learning](#unleashing-the-potential-of-cnns-for-interpretable-few-shot-learning)
-* [Train, Diagnose and Fix: Interpretable Approach for Fine-grained Action  Recognition](#train-diagnose-and-fix-interpretable-approach-for-fine-grained-action--recognition)
-* [SPINE: SParse Interpretable Neural Embeddings](#spine-sparse-interpretable-neural-embeddings)
-* [Improving the Adversarial Robustness and Interpretability of Deep Neural  Networks by Regularizing their Input Gradients](#improving-the-adversarial-robustness-and-interpretability-of-deep-neural--networks-by-regularizing-their-input-gradients)
-* [Contextual Outlier Interpretation](#contextual-outlier-interpretation)
-* [Interpretable Convolutional Neural Networks for Effective Translation  Initiation Site Prediction](#interpretable-convolutional-neural-networks-for-effective-translation--initiation-site-prediction)
-* [Interpretable Facial Relational Network Using Relational Importance](#interpretable-facial-relational-network-using-relational-importance)
-* [Latent Factor Interpretations for Collaborative Filtering](#latent-factor-interpretations-for-collaborative-filtering)
-* [Structured learning and detailed interpretation of minimal object images](#structured-learning-and-detailed-interpretation-of-minimal-object-images)
-* [An interpretable latent variable model for attribute applicability in  the Amazon catalogue](#an-interpretable-latent-variable-model-for-attribute-applicability-in--the-amazon-catalogue)
-* [Optimizing colormaps with consideration for color vision deficiency to  enable accurate interpretation of scientific data](#optimizing-colormaps-with-consideration-for-color-vision-deficiency-to--enable-accurate-interpretation-of-scientific-data)
-* [Where Classification Fails, Interpretation Rises](#where-classification-fails-interpretation-rises)
-* [Inducing Interpretability in Knowledge Graph Embeddings](#inducing-interpretability-in-knowledge-graph-embeddings)
-* [Learning Interpretable Spatial Operations in a Rich 3D Blocks World](#learning-interpretable-spatial-operations-in-a-rich-3d-blocks-world)
-* [SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for  Predicting Chemical Properties](#smiles2vec-an-interpretable-general-purpose-deep-neural-network-for--predicting-chemical-properties)
 
 # Papers
 
@@ -2254,166 +2202,6 @@ network. Then we show that the network causally cues on a variety of features
 that are used by humans while driving.
 
 
-## [Open Programming Language Interpreters](https://arxiv.org/abs/1703.10873)
-[(PDF)](https://arxiv.org/pdf/1703.10873)
-
-`Authors:Walter Cazzola (Università degli Studi di Milano, Italy), Albert Shaqiri (Università degli Studi di Milano, Italy)`
-
-
-Subjects:
-
-Programming Languages (cs.PL); Software Engineering (cs.SE)
-
-
-Journal reference:
-
-The Art, Science, and Engineering of Programming, 2017, Vol. 1,
-  Issue 2, Article 5
-
-
-DOI:
-
-10.22152/programming-journal.org/2017/1/5
-
-
-Cite as:
-
-arXiv:1703.10873 [cs.PL]
-
- 
-(or arXiv:1703.10873v1 [cs.PL] for this version)
-
-
-> Abstract: Context: This paper presents the concept of open programming language
-interpreters and the implementation of a framework-level metaobject protocol
-(MOP) to support them. Inquiry: We address the problem of dynamic interpreter
-adaptation to tailor the interpreter's behavior on the task to be solved and to
-introduce new features to fulfill unforeseen requirements. Many languages
-provide a MOP that to some degree supports reflection. However, MOPs are
-typically language-specific, their reflective functionality is often
-restricted, and the adaptation and application logic are often mixed which
-hardens the understanding and maintenance of the source code. Our system
-overcomes these limitations. Approach: We designed and implemented a system to
-support open programming language interpreters. The prototype implementation is
-integrated in the Neverlang framework. The system exposes the structure,
-behavior and the runtime state of any Neverlang-based interpreter with the
-ability to modify it. Knowledge: Our system provides a complete control over
-interpreter's structure, behavior and its runtime state. The approach is
-applicable to every Neverlang-based interpreter. Adaptation code can
-potentially be reused across different language implementations. Grounding:
-Having a prototype implementation we focused on feasibility evaluation. The
-paper shows that our approach well addresses problems commonly found in the
-research literature. We have a demonstrative video and examples that illustrate
-our approach on dynamic software adaptation, aspect-oriented programming,
-debugging and context-aware interpreters. Importance: To our knowledge, our
-paper presents the first reflective approach targeting a general framework for
-language development. Our system provides full reflective support for free to
-any Neverlang-based interpreter. We are not aware of any prior application of
-open implementations to programming language interpreters in the sense defined
-in this paper. Rather than substituting other approaches, we believe our system
-can be used as a complementary technique in situations where other approaches
-present serious limitations.
-
-
-## [Dempster-Shafer Belief Function - A New Interpretation](https://arxiv.org/abs/1704.04000)
-[(PDF)](https://arxiv.org/pdf/1704.04000)
-
-`Authors:Mieczysław Kłopotek`
-
-
-Comments:
-
-70 pages, an internat intermediate research report, dating back to 1993
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1704.04000 [cs.AI]
-
- 
-(or arXiv:1704.04000v1 [cs.AI] for this version)
-
-
-> Abstract: We develop our interpretation of the joint belief distribution and of
-evidential updating that matches the following basic requirements:
-* there must exist an efficient method for reasoning within this framework
-* there must exist a clear correspondence between the contents of the
-knowledge base and the real world
-* there must be a clear correspondence between the reasoning method and some
-real world process
-* there must exist a clear correspondence between the results of the
-reasoning process and the results of the real world process corresponding to
-the reasoning process.
-
-
-## [A correlation game for unsupervised learning yields computational  interpretations of Hebbian excitation, anti-Hebbian inhibition, and synapse  elimination](https://arxiv.org/abs/1704.00646)
-[(PDF)](https://arxiv.org/pdf/1704.00646)
-
-`Authors:H. Sebastian Seung, Jonathan Zung`
-
-
-Subjects:
-
-Neural and Evolutionary Computing (cs.NE); Neurons and Cognition (q-bio.NC)
-
-
-Cite as:
-
-arXiv:1704.00646 [cs.NE]
-
- 
-(or arXiv:1704.00646v1 [cs.NE] for this version)
-
-
-> Abstract: Much has been learned about plasticity of biological synapses from empirical
-studies. Hebbian plasticity is driven by correlated activity of presynaptic and
-postsynaptic neurons. Synapses that converge onto the same neuron often behave
-as if they compete for a fixed resource; some survive the competition while
-others are eliminated. To provide computational interpretations of these
-aspects of synaptic plasticity, we formulate unsupervised learning as a
-zero-sum game between Hebbian excitation and anti-Hebbian inhibition in a
-neural network model. The game formalizes the intuition that Hebbian excitation
-tries to maximize correlations of neurons with their inputs, while anti-Hebbian
-inhibition tries to decorrelate neurons from each other. We further include a
-model of synaptic competition, which enables a neuron to eliminate all
-connections except those from its most strongly correlated inputs. Through
-empirical studies, we show that this facilitates the learning of sensory
-features that resemble parts of objects.
-
-
-## [Transferrable Plausibility Model - A Probabilistic Interpretation of  Mathematical Theory of Evidence](https://arxiv.org/abs/1704.01742)
-[(PDF)](https://arxiv.org/pdf/1704.01742)
-
-`Authors:Mieczysław Kłopotek`
-
-
-Comments:
-
-Pre-publication version of: M.A. K{\l}opotek: Transferable Plausibility Model - A Probabilistic Interpretation of Mathematical Theory of Evidence O.Hryniewicz, J. Kacprzyk, J.Koronacki, S.Wierzcho\'{n}: Issues in Intelligent Systems Paradigms Akademicka Oficyna Wydawnicza EXIT, Warszawa 2005 ISBN 83-87674-90-7, pp.107--118
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1704.01742 [cs.AI]
-
- 
-(or arXiv:1704.01742v1 [cs.AI] for this version)
-
-
-> Abstract: This paper suggests a new interpretation of the Dempster-Shafer theory in
-terms of probabilistic interpretation of plausibility. A new rule of
-combination of independent evidence is shown and its preservation of
-interpretation is demonstrated.
-
-
 ## [Interpretable 3D Human Action Analysis with Temporal Convolutional  Networks](https://arxiv.org/abs/1704.04516)
 [(PDF)](https://arxiv.org/pdf/1704.04516)
 
@@ -2548,191 +2336,6 @@ models and training methods that go beyond measurements of their discriminative
 power.
 
 
-## [Accurately and Efficiently Interpreting Human-Robot Instructions of  Varying Granularities](https://arxiv.org/abs/1704.06616)
-[(PDF)](https://arxiv.org/pdf/1704.06616)
-
-`Authors:Dilip Arumugam, Siddharth Karamcheti, Nakul Gopalan, Lawson L.S. Wong, Stefanie Tellex`
-
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1704.06616 [cs.AI]
-
- 
-(or arXiv:1704.06616v1 [cs.AI] for this version)
-
-
-> Abstract: Humans can ground natural language commands to tasks at both abstract and
-fine-grained levels of specificity. For instance, a human forklift operator can
-be instructed to perform a high-level action, like "grab a pallet" or a
-lowlevel action like "tilt back a little bit." While robots are also capable of
-grounding language commands to tasks, previous methods implicitly assume that
-all commands and tasks reside at a single, fixed level of abstraction.
-Additionally, those approaches that do not use abstraction experience
-inefficient planning and execution times due to the large, intractable
-state-action spaces, which closely resemble real world complexity. In this
-work, by grounding commands to all the tasks or subtasks available in a
-hierarchical planning framework, we arrive at a model capable of interpreting
-language at multiple levels of specificity ranging from coarse to more
-granular. We show that the accuracy of the grounding procedure is improved when
-simultaneously inferring the degree of abstraction in language used to
-communicate the task. Leveraging hierarchy also improves efficiency: our
-proposed approach enables a robot to respond to a command within one second on
-90% of our tasks, while baselines take over twenty seconds on half the tasks.
-Finally, we demonstrate that a real, physical robot can ground commands at
-multiple levels of abstraction allowing it to efficiently plan different
-subtasks within the same planning hierarchy.
-
-
-## [Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual  Machine Translation](https://arxiv.org/abs/1704.06836)
-[(PDF)](https://arxiv.org/pdf/1704.06836)
-
-`Authors:Lotem Peled, Roi Reichart`
-
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1704.06836 [cs.CL]
-
- 
-(or arXiv:1704.06836v1 [cs.CL] for this version)
-
-
-> Abstract: Sarcasm is a form of speech in which speakers say the opposite of what they
-truly mean in order to convey a strong sentiment. In other words, "Sarcasm is
-the giant chasm between what I say, and the person who doesn't get it.". In
-this paper we present the novel task of sarcasm interpretation, defined as the
-generation of a non-sarcastic utterance conveying the same message as the
-original sarcastic one. We introduce a novel dataset of 3000 sarcastic tweets,
-each interpreted by five human judges. Addressing the task as monolingual
-machine translation (MT), we experiment with MT algorithms and evaluation
-measures. We then present SIGN: an MT based sarcasm interpretation algorithm
-that targets sentiment words, a defining element of textual sarcasm. We show
-that while the scores of n-gram based automatic measures are similar for all
-interpretation models, SIGN's interpretations are scored higher by humans for
-adequacy and sentiment polarity. We conclude with a discussion on future
-research directions for our new task.
-
-
-## [Abstract Interpretation with Unfoldings](https://arxiv.org/abs/1705.00595)
-[(PDF)](https://arxiv.org/pdf/1705.00595)
-
-`Authors:Marcelo Sousa, César Rodríguez, Vijay D'Silva, Daniel Kroening`
-
-
-Comments:
-
-Extended version of the paper (with the same title and authors) to appear at CAV 2017
-
-Subjects:
-
-Programming Languages (cs.PL); Logic in Computer Science (cs.LO)
-
-
-Cite as:
-
-arXiv:1705.00595 [cs.PL]
-
- 
-(or arXiv:1705.00595v1 [cs.PL] for this version)
-
-
-> Abstract: We present and evaluate a technique for computing path-sensitive interference
-conditions during abstract interpretation of concurrent programs. In lieu of
-fixed point computation, we use prime event structures to compactly represent
-causal dependence and interference between sequences of transformers. Our main
-contribution is an unfolding algorithm that uses a new notion of independence
-to avoid redundant transformer application, thread-local fixed points to reduce
-the size of the unfolding, and a novel cutoff criterion based on subsumption to
-guarantee termination of the analysis. Our experiments show that the abstract
-unfolding produces an order of magnitude fewer false alarms than a mature
-abstract interpreter, while being several orders of magnitude faster than
-solver-based tools that have the same precision.
-
-
-## [Verifying Programs via Intermediate Interpretation](https://arxiv.org/abs/1705.06738)
-[(PDF)](https://arxiv.org/pdf/1705.06738)
-
-`Authors:Alexei P. Lisitsa, Andrei P. Nemytykh`
-
-
-Comments:
-
-Fifth International Workshop on Verification and Program Transformation (VPT-2017), April 29th, 2017, Uppsala, Sweden, 37 pages
-
-Subjects:
-
-Programming Languages (cs.PL)
-
-
-Cite as:
-
-arXiv:1705.06738 [cs.PL]
-
- 
-(or arXiv:1705.06738v1 [cs.PL] for this version)
-
-
-> Abstract: We explore an approach to verification of programs via program transformation
-applied to an interpreter of a programming language. A specialization technique
-known as Turchin's supercompilation is used to specialize some interpreters
-with respect to the program models. We show that several safety properties of
-functional programs modeling a class of cache coherence protocols can be proved
-by a supercompiler and compare the results with our earlier work on direct
-verification via supercompilation not using intermediate interpretation.
-Our approach was in part inspired by an earlier work by De E. Angelis et al.
-(2014-2015) where verification via program transformation and intermediate
-interpretation was studied in the context of specialization of constraint logic
-programs.
-
-
-## [Induction of Interpretable Possibilistic Logic Theories from Relational  Data](https://arxiv.org/abs/1705.07095)
-[(PDF)](https://arxiv.org/pdf/1705.07095)
-
-`Authors:Ondrej Kuzelka, Jesse Davis, Steven Schockaert`
-
-
-Comments:
-
-Longer version of a paper appearing in IJCAI 2017
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1705.07095 [cs.AI]
-
- 
-(or arXiv:1705.07095v1 [cs.AI] for this version)
-
-
-> Abstract: The field of Statistical Relational Learning (SRL) is concerned with learning
-probabilistic models from relational data. Learned SRL models are typically
-represented using some kind of weighted logical formulas, which make them
-considerably more interpretable than those obtained by e.g. neural networks. In
-practice, however, these models are often still difficult to interpret
-correctly, as they can contain many formulas that interact in non-trivial ways
-and weights do not always have an intuitive meaning. To address this, we
-propose a new SRL method which uses possibilistic logic to encode relational
-models. Learned models are then essentially stratified classical theories,
-which explicitly encode what can be derived with a given level of certainty.
-Compared to Markov Logic Networks (MLNs), our method is faster and produces
-considerably more interpretable models.
-
-
 ## [Softmax Q-Distribution Estimation for Structured Prediction: A  Theoretical Interpretation for RAML](https://arxiv.org/abs/1705.07136)
 [(PDF)](https://arxiv.org/pdf/1705.07136)
 
@@ -2858,82 +2461,6 @@ to the classification of textures from the Describable Textures Dataset and to
 the ISBI-ISIC 2016 melanoma classification challenge.
 
 
-## [Interpreting and Extending The Guided Filter Via Cyclic Coordinate  Descent](https://arxiv.org/abs/1705.10552)
-[(PDF)](https://arxiv.org/pdf/1705.10552)
-
-`Authors:Longquan Dai`
-
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV)
-
-
-Cite as:
-
-arXiv:1705.10552 [cs.CV]
-
- 
-(or arXiv:1705.10552v1 [cs.CV] for this version)
-
-
-> Abstract: In this paper, we will disclose that the Guided Filter (GF) can be
-interpreted as the Cyclic Coordinate Descent (CCD) solver of a Least Square
-(LS) objective function. This discovery implies a possible way to extend GF
-because we can alter the objective function of GF and define new filters as the
-first pass iteration of the CCD solver of modified objective functions.
-Moreover, referring to the iterative minimizing procedure of CCD, we can derive
-new rolling filtering schemes. Hence, under the guidance of this discovery, we
-not only propose new GF-like filters adapting to the specific requirements of
-applications but also offer thoroughly explanations for two rolling filtering
-schemes of GF as well as the way to extend them. Experiments show that our new
-filters and extensions produce state-of-the-art results.
-
-
-## [Question-Answering with Grammatically-Interpretable Representations](https://arxiv.org/abs/1705.08432)
-[(PDF)](https://arxiv.org/pdf/1705.08432)
-
-`Authors:Hamid Palangi, Paul Smolensky, Xiaodong He, Li Deng`
-
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1705.08432 [cs.CL]
-
- 
-(or arXiv:1705.08432v2 [cs.CL] for this version)
-
-
-> Abstract: We introduce an architecture, the Tensor Product Recurrent Network (TPRN). In
-our application of TPRN, internal representations learned by end-to-end
-optimization in a deep neural network performing a textual question-answering
-(QA) task can be interpreted using basic concepts from linguistic theory. No
-performance penalty need be paid for this increased interpretability: the
-proposed model performs comparably to a state-of-the-art system on the SQuAD QA
-task. The internal representation which is interpreted is a Tensor Product
-Representation: for each input word, the model selects a symbol to encode the
-word, and a role in which to place the symbol, and binds the two together. The
-selection is via soft attention. The overall interpretation is built from
-interpretations of the symbols, as recruited by the trained model, and
-interpretations of the roles as used by the model. We find support for our
-initial hypothesis that symbols can be interpreted as lexical-semantic word
-meanings, while roles can be interpreted as approximations of grammatical roles
-(or categories) such as subject, wh-word, determiner, etc. Fine-grained
-analysis reveals specific correspondences between the learned roles and parts
-of speech as assigned by a standard tagger (Toutanova et al. 2003), and finds
-several discrepancies in the model's favor. In this sense, the model learns
-significant aspects of grammar, after having been exposed solely to
-linguistically unannotated text, questions, and answers: no prior linguistic
-knowledge is given to the model. What is given is the means to build
-representations using symbols and roles, with an inductive bias favoring use of
-these in an approximately discrete manner.
-
-
 ## [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
 [(PDF)](https://arxiv.org/pdf/1705.07874)
 
@@ -3011,78 +2538,6 @@ instance. Furthermore, we show how an interpretation generated by our approach
 can be used to understand and debug these models.
 
 
-## [Automating Carotid Intima-Media Thickness Video Interpretation with  Convolutional Neural Networks](https://arxiv.org/abs/1706.00719)
-[(PDF)](https://arxiv.org/pdf/1706.00719)
-
-`Authors:Jae Y. Shin, Nima Tajbakhsh, R. Todd Hurst, Christopher B. Kendall, Jianming Liang`
-
-
-Comments:
-
-J. Y. Shin, N. Tajbakhsh, R. T. Hurst, C. B. Kendall, and J. Liang. Automating carotid intima-media thickness video interpretation with convolutional neural networks. CVPR 2016, pp 2526-2535; N. Tajbakhsh, J. Y. Shin, R. T. Hurst, C. B. Kendall, and J. Liang. Automatic interpretation of CIMT videos using convolutional neural networks. Deep Learning for Medical Image Analysis, Academic Press, 2017
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV); Learning (cs.LG)
-
-
-Cite as:
-
-arXiv:1706.00719 [cs.CV]
-
- 
-(or arXiv:1706.00719v1 [cs.CV] for this version)
-
-
-> Abstract: Cardiovascular disease (CVD) is the leading cause of mortality yet largely
-preventable, but the key to prevention is to identify at-risk individuals
-before adverse events. For predicting individual CVD risk, carotid intima-media
-thickness (CIMT), a noninvasive ultrasound method, has proven to be valuable,
-offering several advantages over CT coronary artery calcium score. However,
-each CIMT examination includes several ultrasound videos, and interpreting each
-of these CIMT videos involves three operations: (1) select three end-diastolic
-ultrasound frames (EUF) in the video, (2) localize a region of interest (ROI)
-in each selected frame, and (3) trace the lumen-intima interface and the
-media-adventitia interface in each ROI to measure CIMT. These operations are
-tedious, laborious, and time consuming, a serious limitation that hinders the
-widespread utilization of CIMT in clinical practice. To overcome this
-limitation, this paper presents a new system to automate CIMT video
-interpretation. Our extensive experiments demonstrate that the suggested system
-significantly outperforms the state-of-the-art methods. The superior
-performance is attributable to our unified framework based on convolutional
-neural networks (CNNs) coupled with our informative image representation and
-effective post-processing of the CNN outputs, which are uniquely designed for
-each of the above three operations.
-
-
-## [Well quasi-orders and the functional interpretation](https://arxiv.org/abs/1706.02881)
-[(PDF)](https://arxiv.org/pdf/1706.02881)
-
-`Authors:Thomas Powell`
-
-
-Subjects:
-
-Logic (math.LO); Logic in Computer Science (cs.LO)
-
-
-Cite as:
-
-arXiv:1706.02881 [math.LO]
-
- 
-(or arXiv:1706.02881v1 [math.LO] for this version)
-
-
-> Abstract: The purpose of this article is to study the role of G\"odel's functional
-interpretation in the extraction of programs from proofs in well quasi-order
-theory. The main focus is on the interpretation of Nash-Williams' famous
-minimal bad sequence construction, and the exploration of a number of much
-broader problems which are related to this, particularly the question of the
-constructive meaning of Zorn's lemma and the notion of recursion over the
-non-wellfounded lexicographic ordering on infinite sequences.
-
-
 ## [Interpretable & Explorable Approximations of Black Box Models](https://arxiv.org/abs/1707.01154)
 [(PDF)](https://arxiv.org/pdf/1707.01154)
 
@@ -3126,49 +2581,6 @@ approximations of various kinds of predictive models compared to
 state-of-the-art baselines.
 
 
-## [Combining Forward and Backward Abstract Interpretation of Horn Clauses](https://arxiv.org/abs/1707.01277)
-[(PDF)](https://arxiv.org/pdf/1707.01277)
-
-`Authors:Alexey Bakhirkin (VERIMAG - IMAG), David Monniaux (VERIMAG - IMAG)`
-
-
-Comments:
-
-Francesco Ranzato. 24th International Static Analysis Symposium (SAS), Aug 2017, New York City, United States. Springer, Static Analysis
-
-Subjects:
-
-Programming Languages (cs.PL); Logic in Computer Science (cs.LO)
-
-
-Cite as:
-
-arXiv:1707.01277 [cs.PL]
-
- 
-(or arXiv:1707.01277v2 [cs.PL] for this version)
-
-
-> Abstract: Alternation of forward and backward analyses is a standard technique in
-abstract interpretation of programs, which is in particular useful when we wish
-to prove unreachability of some undesired program states. The current
-state-of-the-art technique for combining forward (bottom-up, in logic
-programming terms) and backward (top-down) abstract interpretation of Horn
-clauses is query-answer transformation. It transforms a system of Horn clauses,
-such that standard forward analysis can propagate constraints both forward, and
-backward from a goal. Query-answer transformation is effective, but has issues
-that we wish to address. For that, we introduce a new backward collecting
-semantics, which is suitable for alternating forward and backward abstract
-interpretation of Horn clauses. We show how the alternation can be used to
-prove unreachability of the goal and how every subsequent run of an analysis
-yields a refined model of the system. Experimentally, we observe that combining
-forward and backward analyses is important for analysing systems that encode
-questions about reachability in C programs. In particular, the combination that
-follows our new semantics improves the precision of our own abstract
-interpreter, including when compared to a forward analysis of a
-query-answer-transformed system.
-
-
 ## [Interpretability via Model Extraction](https://arxiv.org/abs/1706.09773)
 [(PDF)](https://arxiv.org/pdf/1706.09773)
 
@@ -3202,41 +2614,6 @@ model. We show how model extraction can be used to understand and debug random
 forests and neural nets trained on several datasets from the UCI Machine
 Learning Repository, as well as control policies learned for several classical
 reinforcement learning problems.
-
-
-## [TIP: Typifying the Interpretability of Procedures](https://arxiv.org/abs/1706.02952)
-[(PDF)](https://arxiv.org/pdf/1706.02952)
-
-`Authors:Amit Dhurandhar, Vijay Iyengar, Ronny Luss, Karthikeyan Shanmugam`
-
-
-Subjects:
-
-Artificial Intelligence (cs.AI); Applications (stat.AP); Computation (stat.CO); Machine Learning (stat.ML)
-
-
-Cite as:
-
-arXiv:1706.02952 [cs.AI]
-
- 
-(or arXiv:1706.02952v1 [cs.AI] for this version)
-
-
-> Abstract: We provide a novel notion of what it means to be interpretable, looking past
-the usual association with human understanding. Our key insight is that
-interpretability is not an absolute concept and so we define it relative to a
-target model, which may or may not be a human. We define a framework that
-allows for comparing interpretable procedures by linking it to important
-practical aspects such as accuracy and robustness. We characterize many of the
-current state-of-the-art interpretable methods in our framework portraying its
-general applicability. Finally, principled interpretable strategies are
-proposed and empirically evaluated on synthetic data, as well as on the largest
-public olfaction dataset that was made recently available \cite{olfs}. We also
-experiment on MNIST with a simple target model and different oracle models of
-varying complexity. This leads to the insight that the improvement in the
-target model is not only a function of the oracle models performance, but also
-its relative complexity with respect to the target model.
 
 
 ## [Methods for Interpreting and Understanding Deep Neural Networks](https://arxiv.org/abs/1706.07979)
@@ -3316,47 +2693,6 @@ comparative baselines. The proposed image model obtains state-of-the-art
 performance on two CIFAR datasets as well.
 
 
-## [Identification and Interpretation of Belief Structure in Dempster-Shafer  Theory](https://arxiv.org/abs/1707.03881)
-[(PDF)](https://arxiv.org/pdf/1707.03881)
-
-`Authors:Mieczysław A. Kłopotek`
-
-
-Comments:
-
-An internal report 1994
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1707.03881 [cs.AI]
-
- 
-(or arXiv:1707.03881v1 [cs.AI] for this version)
-
-
-> Abstract: Mathematical Theory of Evidence called also Dempster-Shafer Theory (DST) is
-known as a foundation for reasoning when knowledge is expressed at various
-levels of detail. Though much research effort has been committed to this theory
-since its foundation, many questions remain open. One of the most important
-open questions seems to be the relationship between frequencies and the
-Mathematical Theory of Evidence. The theory is blamed to leave frequencies
-outside (or aside of) its framework. The seriousness of this accusation is
-obvious: (1) no experiment may be run to compare the performance of DST-based
-models of real world processes against real world data, (2) data may not serve
-as foundation for construction of an appropriate belief model.
-In this paper we develop a frequentist interpretation of the DST bringing to
-fall the above argument against DST. An immediate consequence of it is the
-possibility to develop algorithms acquiring automatically DST belief models
-from data. We propose three such algorithms for various classes of belief model
-structures: for tree structured belief networks, for poly-tree belief networks
-and for general type belief networks.
-
-
 ## [A Formal Framework to Characterize Interpretability of Procedures](https://arxiv.org/abs/1707.03886)
 [(PDF)](https://arxiv.org/pdf/1707.03886)
 
@@ -3388,35 +2724,6 @@ allows for comparing interpretable procedures by linking it to important
 practical aspects such as accuracy and robustness. We characterize many of the
 current state-of-the-art interpretable methods in our framework portraying its
 general applicability.
-
-
-## [Rotations and Interpretability of Word Embeddings: the Case of the  Russian Language](https://arxiv.org/abs/1707.04662)
-[(PDF)](https://arxiv.org/pdf/1707.04662)
-
-`Authors:Alexey Zobnin`
-
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1707.04662 [cs.CL]
-
- 
-(or arXiv:1707.04662v1 [cs.CL] for this version)
-
-
-> Abstract: Consider a continuous word embedding model. Usually, the cosines between word
-vectors are used as a measure of similarity of words. These cosines do not
-change under orthogonal transformations of the embedding space. We demonstrate
-that, using some canonical orthogonal transformations from SVD, it is possible
-both to increase the meaning of some components and to make the components more
-stable under re-learning. We study the interpretability of components for
-publicly available models for the Russian language (RusVectores, fastText,
-RDT).
 
 
 ## [Interpreting Classifiers through Attribute Interactions in Datasets](https://arxiv.org/abs/1707.07576)
@@ -3452,240 +2759,6 @@ interactions between drugs or in bioinformatics to investigate associations
 between single nucleotide polymorphisms. We also show how the found attribute
 partitioning is related to a factorisation of the data generating distribution
 and empirically demonstrate the utility of the proposed method.
-
-
-## [Unsupervised, Knowledge-Free, and Interpretable Word Sense  Disambiguation](https://arxiv.org/abs/1707.06878)
-[(PDF)](https://arxiv.org/pdf/1707.06878)
-
-`Authors:Alexander Panchenko, Fide Marten, Eugen Ruppert, Stefano Faralli, Dmitry Ustalov, Simone Paolo Ponzetto, Chris Biemann`
-
-
-Comments:
-
-In Proceedings of the the Conference on Empirical Methods on Natural Language Processing (EMNLP 2017). 2017. Copenhagen, Denmark. Association for Computational Linguistics
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-ACM classes:
-
-I.2.6; I.5.3; I.2.4
-
-
-Cite as:
-
-arXiv:1707.06878 [cs.CL]
-
- 
-(or arXiv:1707.06878v1 [cs.CL] for this version)
-
-
-> Abstract: Interpretability of a predictive model is a powerful feature that gains the
-trust of users in the correctness of the predictions. In word sense
-disambiguation (WSD), knowledge-based systems tend to be much more
-interpretable than knowledge-free counterparts as they rely on the wealth of
-manually-encoded elements representing word senses, such as hypernyms, usage
-examples, and images. We present a WSD system that bridges the gap between
-these two so far disconnected groups of methods. Namely, our system, providing
-access to several state-of-the-art WSD models, aims to be interpretable as a
-knowledge-based system while it remains completely unsupervised and
-knowledge-free. The presented tool features a Web interface for all-word
-disambiguation of texts that makes the sense predictions human readable by
-providing interpretable word sense inventories, sense representations, and
-disambiguation results. We provide a public API, enabling seamless integration.
-
-
-## [Abstracting Definitional Interpreters](https://arxiv.org/abs/1707.04755)
-[(PDF)](https://arxiv.org/pdf/1707.04755)
-
-`Authors:David Darais, Nicholas Labich, Phuc C. Nguyen, David Van Horn`
-
-
-Subjects:
-
-Programming Languages (cs.PL)
-
-
-Journal reference:
-
-Proc. ACM Program. Lang. 1, ICFP, Article 12 (September 2017)
-
-
-DOI:
-
-10.1145/3110256
-
-
-Cite as:
-
-arXiv:1707.04755 [cs.PL]
-
- 
-(or arXiv:1707.04755v1 [cs.PL] for this version)
-
-
-> Abstract: In this functional pearl, we examine the use of definitional interpreters as
-a basis for abstract interpretation of higher-order programming languages. As
-it turns out, definitional interpreters, especially those written in monadic
-style, can provide a nice basis for a wide variety of collecting semantics,
-abstract interpretations, symbolic executions, and their intermixings.
-But the real insight of this story is a replaying of an insight from
-Reynold's landmark paper, Definitional Interpreters for Higher-Order
-Programming Languages, in which he observes definitional interpreters enable
-the defined-language to inherit properties of the defining-language. We show
-the same holds true for definitional abstract interpreters. Remarkably, we
-observe that abstract definitional interpreters can inherit the so-called
-"pushdown control flow" property, wherein function calls and returns are
-precisely matched in the abstract semantics, simply by virtue of the function
-call mechanism of the defining-language.
-The first approaches to achieve this property for higher-order languages
-appeared within the last ten years, and have since been the subject of many
-papers. These approaches start from a state-machine semantics and uniformly
-involve significant technical engineering to recover the precision of pushdown
-control flow. In contrast, starting from a definitional interpreter, the
-pushdown control flow property is inherent in the meta-language and requires no
-further technical mechanism to achieve.
-
-
-## [PunFields at SemEval-2017 Task 7: Employing Roget's Thesaurus in  Automatic Pun Recognition and Interpretation](https://arxiv.org/abs/1707.05479)
-[(PDF)](https://arxiv.org/pdf/1707.05479)
-
-`Authors:Elena Mikhalkova, Yuri Karyakin`
-
-
-Comments:
-
-Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017) Task 7: Detection and Interpretation of English Puns
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1707.05479 [cs.CL]
-
- 
-(or arXiv:1707.05479v1 [cs.CL] for this version)
-
-
-> Abstract: The article describes a model of automatic interpretation of English puns,
-based on Roget's Thesaurus, and its implementation, PunFields. In a pun, the
-algorithm discovers two groups of words that belong to two main semantic
-fields. The fields become a semantic vector based on which an SVM classifier
-learns to recognize puns. A rule-based model is then applied for recognition of
-intentionally ambiguous (target) words and their definitions. In SemEval Task 7
-PunFields shows a considerably good result in pun classification, but requires
-improvement in searching for the target word and its definition.
-
-
-## [Eigenlogic: Interpretable Quantum Observables with applications to Fuzzy  Behavior of Vehicular Robots](https://arxiv.org/abs/1707.05654)
-[(PDF)](https://arxiv.org/pdf/1707.05654)
-
-`Authors:Zeno Toffano (L2S), François Dubois (LM-Orsay)`
-
-
-Subjects:
-
-Artificial Intelligence (cs.AI)
-
-
-Cite as:
-
-arXiv:1707.05654 [cs.AI]
-
- 
-(or arXiv:1707.05654v1 [cs.AI] for this version)
-
-
-> Abstract: This work proposes a formulation of propositional logic, named Eigenlogic,
-using quantum observables as propositions. The eigenvalues of these operators
-are the truth-values and the associated eigenvectors the interpretations of the
-propositional system. Fuzzy logic arises naturally when considering vectors
-outside the eigensystem, the fuzzy membership function is obtained by the Born
-rule of the logical observable.This approach is then applied in the context of
-quantum robots using simple behavioral agents represented by Braitenberg
-vehicles. Processing with non-classical logic such as multivalued logic, fuzzy
-logic and the quantum Eigenlogic permits to enlarge the behavior possibilities
-and the associated decisions of these simple agents.
-
-
-## [Witness-Functions versus Interpretation-Functions for Secrecy in  Cryptographic Protocols: What to Choose?](https://arxiv.org/abs/1707.09078)
-[(PDF)](https://arxiv.org/pdf/1707.09078)
-
-`Authors:Jaouhar Fattahi, Mohamed Mejri, Marwa Ziadia, Takwa Omrani, Emil Pricop`
-
-
-Comments:
-
-Accepted at the IEEE SMC (6 two column pages) on 2017-07-10
-
-Subjects:
-
-Cryptography and Security (cs.CR)
-
-
-Cite as:
-
-arXiv:1707.09078 [cs.CR]
-
- 
-(or arXiv:1707.09078v1 [cs.CR] for this version)
-
-
-> Abstract: Proving that a cryptographic protocol is correct for secrecy is a hard task.
-One of the strongest strategies to reach this goal is to show that it is
-increasing, which means that the security level of every single atomic message
-exchanged in the protocol, safely evaluated, never deceases. Recently, two
-families of functions have been proposed to measure the security level of
-atomic messages. The first one is the family of interpretation-functions. The
-second is the family of witness-functions. In this paper, we show that the
-witness-functions are more efficient than interpretation-functions. We give a
-detailed analysis of an ad-hoc protocol on which the witness-functions succeed
-in proving its correctness for secrecy while the interpretation-functions fail
-to do so.
-
-
-## [A Tale of Two DRAGGNs: A Hybrid Approach for Interpreting  Action-Oriented and Goal-Oriented Instructions](https://arxiv.org/abs/1707.08668)
-[(PDF)](https://arxiv.org/pdf/1707.08668)
-
-`Authors:Siddharth Karamcheti, Edward C. Williams, Dilip Arumugam, Mina Rhee, Nakul Gopalan, Lawson L. S. Wong, Stefanie Tellex`
-
-
-Comments:
-
-Accepted at the 1st Workshop on Language Grounding for Robotics at ACL 2017
-
-Subjects:
-
-Artificial Intelligence (cs.AI); Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1707.08668 [cs.AI]
-
- 
-(or arXiv:1707.08668v1 [cs.AI] for this version)
-
-
-> Abstract: Robots operating alongside humans in diverse, stochastic environments must be
-able to accurately interpret natural language commands. These instructions
-often fall into one of two categories: those that specify a goal condition or
-target state, and those that specify explicit actions, or how to perform a
-given task. Recent approaches have used reward functions as a semantic
-representation of goal-based commands, which allows for the use of a
-state-of-the-art planner to find a policy for the given task. However, these
-reward functions cannot be directly used to represent action-oriented commands.
-We introduce a new hybrid approach, the Deep Recurrent Action-Goal Grounding
-Network (DRAGGN), for task grounding and execution that handles natural
-language from either category as input, and generalizes to unseen environments.
-Our robot-simulation results demonstrate that a system successfully
-interpreting both goal-oriented and action-oriented task specifications brings
-us closer to robust natural language understanding for human-robot interaction.
 
 
 ## [Interpretable Active Learning](https://arxiv.org/abs/1708.00049)
@@ -3733,40 +2806,6 @@ uncertainty bias over user-defined clusters or automatically generated clusters
 based on the source of uncertainty.
 
 
-## [Kinematic interpretation of the Study quadric's ambient space](https://arxiv.org/abs/1708.02622)
-[(PDF)](https://arxiv.org/pdf/1708.02622)
-
-`Authors:Georg Nawratil`
-
-
-Comments:
-
-10 pages, 2 figures
-
-Subjects:
-
-Computational Geometry (cs.CG); Metric Geometry (math.MG)
-
-
-Cite as:
-
-arXiv:1708.02622 [cs.CG]
-
- 
-(or arXiv:1708.02622v1 [cs.CG] for this version)
-
-
-> Abstract: It is well known that real points of the Study quadric (sliced along a
-3-dimensional generator space) correspond to displacements of the Euclidean
-3-space. But we still lack of a kinematic meaning for the points of the ambient
-7-dimensional projective space $P^7$. This paper gives one possible
-interpretation in terms of displacements of the Euclidean 4-space. From this
-point of view we also discuss the extended inverse kinematic map, motions
-corresponding to straight lines in $P^7$ and linear complexes of
-SE(3)-displacements. Moreover we present an application of this interpretation
-in the context of interactive motion design.
-
-
 ## [Using Program Induction to Interpret Transition System Dynamics](https://arxiv.org/abs/1708.00376)
 [(PDF)](https://arxiv.org/pdf/1708.00376)
 
@@ -3804,30 +2843,6 @@ agent. Our results show that the $\pi$-machine can efficiently induce
 interpretable programs from individual data traces.
 
 
-## [Proceedings of the 2017 ICML Workshop on Human Interpretability in  Machine Learning (WHI 2017)](https://arxiv.org/abs/1708.02666)
-[(PDF)](https://arxiv.org/html/1708.02666)
-
-`Authors:Been Kim, Dmitry M. Malioutov, Kush R. Varshney, Adrian Weller`
-
-
-Subjects:
-
-Machine Learning (stat.ML); Learning (cs.LG)
-
-
-Cite as:
-
-arXiv:1708.02666 [stat.ML]
-
- 
-(or arXiv:1708.02666v1 [stat.ML] for this version)
-
-
-> Abstract: This is the Proceedings of the 2017 ICML Workshop on Human Interpretability
-in Machine Learning (WHI 2017), which was held in Sydney, Australia, August 10,
-2017. Invited speakers were Tony Jebara, Pang Wei Koh, and David Sontag.
-
-
 ## [Warp: a method for neural network interpretability applied to gene  expression profiles](https://arxiv.org/abs/1708.04988)
 [(PDF)](https://arxiv.org/pdf/1708.04988)
 
@@ -3859,50 +2874,6 @@ meaningful information for a given class on a samplespecific individual basis.
 We found warping works well in both linearly and nonlinearly separable
 datasets. These encouraging results show that warping has a potential to be the
 answer to neural networks interpretability in computational biology.
-
-
-## [Exploiting Semantic Contextualization for Interpretation of Human  Activity in Videos](https://arxiv.org/abs/1708.03725)
-[(PDF)](https://arxiv.org/pdf/1708.03725)
-
-`Authors:Sathyanarayanan N. Aakur, Fillipe DM de Souza, Sudeep Sarkar`
-
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV)
-
-
-Cite as:
-
-arXiv:1708.03725 [cs.CV]
-
- 
-(or arXiv:1708.03725v1 [cs.CV] for this version)
-
-
-> Abstract: We use large-scale commonsense knowledge bases, e.g. ConceptNet, to provide
-context cues to establish semantic relationships among entities directly
-hypothesized from video signal, such as putative object and actions labels, and
-infer a deeper interpretation of events than what is directly sensed. One
-approach is to learn semantic relationships between objects and actions from
-training annotations of videos and as such, depend largely on statistics of the
-vocabulary in these annotations. However, the use of prior encoded commonsense
-knowledge sources alleviates this dependence on large annotated training
-datasets. We represent interpretations using a connected structure of basic
-detected (grounded) concepts, such as objects and actions, that are bound by
-semantics with other background concepts not directly observed, i.e.
-contextualization cues. We mathematically express this using the language of
-Grenander's pattern generator theory. Concepts are basic generators and the
-bonds are defined by the semantic relationships between concepts. We formulate
-an inference engine based on energy minimization using an efficient Markov
-Chain Monte Carlo that uses the ConceptNet in its move proposals to find these
-structures. Using three different publicly available datasets, Breakfast, CMU
-Kitchen and MSVD, whose distribution of possible interpretations span more than
-150000 possible solutions for over 5000 videos, we show that the proposed model
-can generate video interpretations whose quality are comparable or better than
-those reported by approaches such as discriminative approaches, hidden Markov
-models, context free grammars, deep learning models, and prior pattern theory
-approaches, all of whom rely on learning from domain-specific training data.
 
 
 ## [DeepFaceLIFT: Interpretable Personalized Models for Automatic Estimation  of Self-Reported Pain](https://arxiv.org/abs/1708.04670)
@@ -4025,83 +2996,6 @@ of the adjective and noun components. Source code and models are available at
 this https URL .
 
 
-## [A Computational Interpretation of Context-Free Expressions](https://arxiv.org/abs/1708.07366)
-[(PDF)](https://arxiv.org/pdf/1708.07366)
-
-`Authors:Martin Sulzmann, Peter Thiemann`
-
-
-Subjects:
-
-Formal Languages and Automata Theory (cs.FL); Logic in Computer Science (cs.LO); Programming Languages (cs.PL)
-
-
-Cite as:
-
-arXiv:1708.07366 [cs.FL]
-
- 
-(or arXiv:1708.07366v1 [cs.FL] for this version)
-
-
-> Abstract: We phrase parsing with context-free expressions as a type inhabitation
-problem where values are parse trees and types are context-free expressions. We
-first show how containment among context-free and regular expressions can be
-reduced to a reachability problem by using a canonical representation of
-states. The proofs-as-programs principle yields a computational interpretation
-of the reachability problem in terms of a coercion that transforms the parse
-tree for a context-free expression into a parse tree for a regular expression.
-It also yields a partial coercion from regular parse trees to context-free
-ones. The partial coercion from the trivial language of all words to a
-context-free expression corresponds to a predictive parser for the expression.
-
-
-## [Verification of Programs via Intermediate Interpretation](https://arxiv.org/abs/1708.09002)
-[(PDF)](https://arxiv.org/pdf/1708.09002)
-
-`Authors:Alexei P. Lisitsa (Department of Computer Science, The University of Liverpool), Andrei P. Nemytykh (Program Systems Institute, Russian Academy of Sciences)`
-
-
-Comments:
-
-In Proceedings VPT 2017, arXiv:1708.06887. The author's extended version is arXiv:1705.06738
-
-Subjects:
-
-Programming Languages (cs.PL); Software Engineering (cs.SE)
-
-
-Journal reference:
-
-EPTCS 253, 2017, pp. 54-74
-
-
-DOI:
-
-10.4204/EPTCS.253.6
-
-
-Cite as:
-
-arXiv:1708.09002 [cs.PL]
-
- 
-(or arXiv:1708.09002v1 [cs.PL] for this version)
-
-
-> Abstract: We explore an approach to verification of programs via program transformation
-applied to an interpreter of a programming language. A specialization technique
-known as Turchin's supercompilation is used to specialize some interpreters
-with respect to the program models. We show that several safety properties of
-functional programs modeling a class of cache coherence protocols can be proved
-by a supercompiler and compare the results with our earlier work on direct
-verification via supercompilation not using intermediate interpretation.
-Our approach was in part inspired by an earlier work by E. De Angelis et al.
-(2014-2015) where verification via program transformation and intermediate
-interpretation was studied in the context of specialization of constraint logic
-programs.
-
-
 ## [Interpretable Categorization of Heterogeneous Time Series Data](https://arxiv.org/abs/1708.09121)
 [(PDF)](https://arxiv.org/pdf/1708.09121)
 
@@ -4144,43 +3038,6 @@ and generating interpretable explanations for each cluster. We apply
 grammar-based decision trees to analyze the classic Australian Sign Language
 dataset as well as categorize and explain near mid-air collisions to support
 the development of a prototype aircraft collision avoidance system.
-
-
-## [Interpretation of Mammogram and Chest X-Ray Reports Using Deep Neural  Networks - Preliminary Results](https://arxiv.org/abs/1708.09254)
-[(PDF)](https://arxiv.org/pdf/1708.09254)
-
-`Authors:Hojjat Salehinejad, Shahrokh Valaee, Aren Mnatzakanian, Tim Dowdell, Joseph Barfett, Errol Colak`
-
-
-Comments:
-
-This paper is submitted for peer-review
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV)
-
-
-Cite as:
-
-arXiv:1708.09254 [cs.CV]
-
- 
-(or arXiv:1708.09254v3 [cs.CV] for this version)
-
-
-> Abstract: Radiology reports are an important means of communication between
-radiologists and other physicians. These reports express a radiologist's
-interpretation of a medical imaging examination and are critical in
-establishing a diagnosis and formulating a treatment plan. In this paper, we
-propose a Bi-directional convolutional neural network (Bi-CNN) model for the
-interpretation and classification of mammograms based on breast density and
-chest radiographic radiology reports based on the basis of chest pathology. The
-proposed approach helps to organize databases of radiology reports, retrieve
-them expeditiously, and evaluate the radiology report that could be used in an
-auditing system to decrease incorrect diagnoses. Our study revealed that the
-proposed Bi-CNN outperforms the random forest and the support vector machine
-methods.
 
 
 ## [Explainable Artificial Intelligence: Understanding, Visualizing and  Interpreting Deep Learning Models](https://arxiv.org/abs/1708.08296)
@@ -4265,39 +3122,6 @@ in the tree gives users significantly better understanding of the model and
 paves the way for trustworthy model sharing.
 
 
-## [Balancing Interpretability and Predictive Accuracy for Unsupervised  Tensor Mining](https://arxiv.org/abs/1709.01147)
-[(PDF)](https://arxiv.org/pdf/1709.01147)
-
-`Authors:Ishmam Zabir, Evangelos E. Papalexakis`
-
-
-Subjects:
-
-Machine Learning (stat.ML); Learning (cs.LG)
-
-
-Cite as:
-
-arXiv:1709.01147 [stat.ML]
-
- 
-(or arXiv:1709.01147v1 [stat.ML] for this version)
-
-
-> Abstract: The PARAFAC tensor decomposition has enjoyed an increasing success in
-exploratory multi-aspect data mining scenarios. A major challenge remains the
-estimation of the number of latent factors (i.e., the rank) of the
-decomposition, which yields high-quality, interpretable results. Previously, we
-have proposed an automated tensor mining method which leverages a well-known
-quality heuristic from the field of Chemometrics, the Core Consistency
-Diagnostic (CORCONDIA), in order to automatically determine the rank for the
-PARAFAC decomposition. In this work we set out to explore the trade-off between
-1) the interpretability/quality of the results (as expressed by CORCONDIA), and
-2) the predictive accuracy of the results, in order to further improve the rank
-estimation quality. Our preliminary results indicate that striking a good
-balance in that trade-off benefits rank estimation.
-
-
 ## [Interpretable Graph-Based Semi-Supervised Learning via Flows](https://arxiv.org/abs/1709.04764)
 [(PDF)](https://arxiv.org/pdf/1709.04764)
 
@@ -4365,118 +3189,6 @@ or linguistic content by manipulating different sets of latent variables; and
 quantitatively, its ability to outperform an i-vector baseline for speaker
 verification and reduce the word error rate by as much as 35% in mismatched
 train/test scenarios for automatic speech recognition tasks.
-
-
-## [Flow-Sensitive Composition of Thread-Modular Abstract Interpretation](https://arxiv.org/abs/1709.10116)
-[(PDF)](https://arxiv.org/pdf/1709.10116)
-
-`Authors:Markus Kusano, Chao Wang`
-
-
-Comments:
-
-revised version of the FSE 2016 paper
-
-Subjects:
-
-Programming Languages (cs.PL)
-
-
-Cite as:
-
-arXiv:1709.10116 [cs.PL]
-
- 
-(or arXiv:1709.10116v1 [cs.PL] for this version)
-
-
-> Abstract: We propose a constraint-based flow-sensitive static analysis for concurrent
-programs by iteratively composing thread-modular abstract interpreters via the
-use of a system of lightweight constraints. Our method is compositional in that
-it first applies sequential abstract interpreters to individual threads and
-then composes their results. It is flow-sensitive in that the causality
-ordering of interferences (flow of data from global writes to reads) is modeled
-by a system of constraints. These interference constraints are lightweight
-since they only refer to the execution order of program statements as opposed
-to their numerical properties: they can be decided efficiently using an
-off-the-shelf Datalog engine. Our new method has the advantage of being more
-accurate than existing, flow-insensitive, static analyzers while remaining
-scalable and providing the expected soundness and termination guarantees even
-for programs with unbounded data. We implemented our method and evaluated it on
-a large number of benchmarks, demonstrating its effectiveness at increasing the
-accuracy of thread-modular abstract interpretation.
-
-
-## [MobInsight: A Framework Using Semantic Neighborhood Features for  Localized Interpretations of Urban Mobility](https://arxiv.org/abs/1709.10299)
-[(PDF)](https://arxiv.org/pdf/1709.10299)
-
-`Authors:Souneil Park, Joan Serra, Enrique Frias Martinez, Nuria Oliver`
-
-
-Subjects:
-
-Human-Computer Interaction (cs.HC)
-
-
-Cite as:
-
-arXiv:1709.10299 [cs.HC]
-
- 
-(or arXiv:1709.10299v1 [cs.HC] for this version)
-
-
-> Abstract: Collective urban mobility embodies the residents' local insights on the city.
-Mobility practices of the residents are produced from their spatial choices,
-which involve various considerations such as the atmosphere of destinations,
-distance, past experiences, and preferences. The advances in mobile computing
-and the rise of geo-social platforms have provided the means for capturing the
-mobility practices; however, interpreting the residents' insights is
-challenging due to the scale and complexity of an urban environment, and its
-unique context. In this paper, we present MobInsight, a framework for making
-localized interpretations of urban mobility that reflect various aspects of the
-urbanism. MobInsight extracts a rich set of neighborhood features through
-holistic semantic aggregation, and models the mobility between all-pairs of
-neighborhoods. We evaluate MobInsight with the mobility data of Barcelona and
-demonstrate diverse localized and semantically-rich interpretations.
-
-
-## [Deep Convolutional Neural Networks for Interpretable Analysis of EEG  Sleep Stage Scoring](https://arxiv.org/abs/1710.00633)
-[(PDF)](https://arxiv.org/pdf/1710.00633)
-
-`Authors:Albert Vilamala, Kristoffer H. Madsen, Lars K. Hansen`
-
-
-Comments:
-
-8 pages, 1 figure, 2 tables, IEEE 2017 International Workshop on Machine Learning for Signal Processing
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
-
-
-Cite as:
-
-arXiv:1710.00633 [cs.CV]
-
- 
-(or arXiv:1710.00633v1 [cs.CV] for this version)
-
-
-> Abstract: Sleep studies are important for diagnosing sleep disorders such as insomnia,
-narcolepsy or sleep apnea. They rely on manual scoring of sleep stages from raw
-polisomnography signals, which is a tedious visual task requiring the workload
-of highly trained professionals. Consequently, research efforts to purse for an
-automatic stage scoring based on machine learning techniques have been carried
-out over the last years. In this work, we resort to multitaper spectral
-analysis to create visually interpretable images of sleep patterns from EEG
-signals as inputs to a deep convolutional network trained to solve visual
-recognition tasks. As a working example of transfer learning, a system able to
-accurately classify sleep stages in new unseen patients is presented.
-Evaluations in a widely-used publicly available dataset favourably compare to
-state-of-the-art results, while providing a framework for visual interpretation
-of outcomes.
 
 
 ## [CTD: Fast, Accurate, and Interpretable Method for Static and Dynamic  Tensor Decompositions](https://arxiv.org/abs/1710.03608)
@@ -4554,88 +3266,6 @@ Experiments showed that filters in an interpretable CNN were more semantically
 meaningful than those in traditional CNNs.
 
 
-## [Multimodal Observation and Interpretation of Subjects Engaged in Problem  Solving](https://arxiv.org/abs/1710.04486)
-[(PDF)](https://arxiv.org/pdf/1710.04486)
-
-`Authors:Thomas Guntz (LIG), Raffaella Balzarini (LIG), Dominique Vaufreydaz (LIG, UGA), James L. Crowley (Grenoble INP, LIG)`
-
-
-Subjects:
-
-Human-Computer Interaction (cs.HC); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
-
-
-Journal reference:
-
-1st Workshop on "Behavior, Emotion and Representation: Building
-  Blocks of Interaction'', Oct 2017, Bielefeld, Germany. 2017
-
-
-Cite as:
-
-arXiv:1710.04486 [cs.HC]
-
- 
-(or arXiv:1710.04486v1 [cs.HC] for this version)
-
-
-> Abstract: In this paper we present the first results of a pilot experiment in the
-capture and interpretation of multimodal signals of human experts engaged in
-solving challenging chess problems. Our goal is to investigate the extent to
-which observations of eye-gaze, posture, emotion and other physiological
-signals can be used to model the cognitive state of subjects, and to explore
-the integration of multiple sensor modalities to improve the reliability of
-detection of human displays of awareness and emotion. We observed chess players
-engaged in problems of increasing difficulty while recording their behavior.
-Such recordings can be used to estimate a participant's awareness of the
-current situation and to predict ability to respond effectively to challenging
-situations. Results show that a multimodal approach is more accurate than a
-unimodal one. By combining body posture, visual attention and emotion, the
-multimodal approach can reach up to 93% of accuracy when determining player's
-chess expertise while unimodal approach reaches 86%. Finally this experiment
-validates the use of our equipment as a general and reproducible tool for the
-study of participants engaged in screen-based interaction and/or problem
-solving.
-
-
-## [Fundamental Limitations in Performance and Interpretability of Common  Planar Rigid-Body Contact Models](https://arxiv.org/abs/1710.04979)
-[(PDF)](https://arxiv.org/pdf/1710.04979)
-
-`Authors:Nima Fazeli, Samuel Zapolsky, Evan Drumwright, Alberto Rodriguez`
-
-
-Comments:
-
-16 pages
-
-Subjects:
-
-Robotics (cs.RO)
-
-
-Cite as:
-
-arXiv:1710.04979 [cs.RO]
-
- 
-(or arXiv:1710.04979v2 [cs.RO] for this version)
-
-
-> Abstract: The ability to reason about and predict the outcome of contacts is paramount
-to the successful execution of many robot tasks. Analytical rigid-body contact
-models are used extensively in planning and control due to their computational
-efficiency and simplicity, yet despite their prevalence, little if any
-empirical comparison of these models has been made and it is unclear how well
-they approximate contact outcomes. In this paper, we first formulate a system
-identification approach for six commonly used contact models in the literature,
-and use the proposed method to find parameters for an experimental data-set of
-impacts. Next, we compare the models empirically, and establish a task specific
-upper bound on the performance of the models and the rigid-body contact model
-paradigm. We highlight the limitations of these models, salient failure modes,
-and the care that should be taken in parameter selection, which are ultimately
-difficult to give a physical interpretation.
-
-
 ## [Interpretable Machine Learning for Privacy-Preserving Pervasive Systems](https://arxiv.org/abs/1710.08464)
 [(PDF)](https://arxiv.org/pdf/1710.08464)
 
@@ -4668,44 +3298,6 @@ we outline the open challenges in this research area. Our interpretability
 framework enable users to understand how the traces they generate could expose
 their privacy, while allowing for usable and personalized services at the same
 time.
-
-
-## [Regularizing Deep Neural Networks by Noise: Its Interpretation and  Optimization](https://arxiv.org/abs/1710.05179)
-[(PDF)](https://arxiv.org/pdf/1710.05179)
-
-`Authors:Hyeonwoo Noh, Tackgeun You, Jonghwan Mun, Bohyung Han`
-
-
-Comments:
-
-NIPS 2017 camera ready
-
-Subjects:
-
-Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV)
-
-
-Cite as:
-
-arXiv:1710.05179 [cs.LG]
-
- 
-(or arXiv:1710.05179v2 [cs.LG] for this version)
-
-
-> Abstract: Overfitting is one of the most critical challenges in deep neural networks,
-and there are various types of regularization methods to improve generalization
-performance. Injecting noises to hidden units during training, e.g., dropout,
-is known as a successful regularizer, but it is still not clear enough why such
-training techniques work well in practice and how we can maximize their benefit
-in the presence of two conflicting objectives---optimizing to true data
-distribution and preventing overfitting by regularization. This paper addresses
-the above issues by 1) interpreting that the conventional training methods with
-regularization by noise injection optimize the lower bound of the true
-objective and 2) proposing a technique to achieve a tighter lower bound using
-multiple noise samples per training example in a stochastic gradient descent
-iteration. We demonstrate the effectiveness of our idea in several computer
-vision applications.
 
 
 ## [InterpNET: Neural Introspection for Interpretable Deep Learning](https://arxiv.org/abs/1710.09511)
@@ -4746,93 +3338,6 @@ classification and explanation dataset show qualitatively and quantitatively
 that the model is able to generate high-quality explanations. While the current
 state-of-the-art METEOR score on this dataset is 29.2, InterpNET achieves a
 much higher METEOR score of 37.9.
-
-
-## [Communication Dualism in Distributed Systems with Petri Net  Interpretation](https://arxiv.org/abs/1710.07907)
-[(PDF)](https://arxiv.org/pdf/1710.07907)
-
-`Authors:Stanisław Chrobot, Wiktor B. Daszczuk`
-
-
-Comments:
-
-14 pages, 4 figures, Appendix with proofs of some lemmas
-
-Subjects:
-
-Distributed, Parallel, and Cluster Computing (cs.DC)
-
-
-MSC classes:
-
-68Q85
-
-
-ACM classes:
-
-F.1.1
-
-
-Journal reference:
-
-Theoretical and Applied Informatics vol. 4/2006, pp. 261-278,
-  ISSN: 1896-5334
-
-
-Cite as:
-
-arXiv:1710.07907 [cs.DC]
-
- 
-(or arXiv:1710.07907v1 [cs.DC] for this version)
-
-
-> Abstract: In the paper notion of communication dualism id formalized and explained in
-Petri net interpretation. We consider communication dualism a basic property of
-communication in distributed systems. The formalization is done in the
-Integrated Model of Distributed Systems (IMDS) where synchronous communication,
-as well as asynchronous message-passing and variable-sharing are modeled in a
-common framework. In the light of this property, communication in distributed
-systems can be seen as a two-dimensional phenomenon with passing being its
-spatial dimension and sharing its temporal dimension. Any distributed system
-can be modeled as a composition of message-passes asynchronous processes or as
-a composition of variable-sharing asynchronous processes. A method of automatic
-process extraction in Petri net interpretation of IMDS is presented.
-
-
-## [Interpreting Contextual Effects By Contextual Modeling In Recommender  Systems](https://arxiv.org/abs/1710.08516)
-[(PDF)](https://arxiv.org/pdf/1710.08516)
-
-`Authors:Yong Zheng`
-
-
-Subjects:
-
-Information Retrieval (cs.IR)
-
-
-Cite as:
-
-arXiv:1710.08516 [cs.IR]
-
- 
-(or arXiv:1710.08516v1 [cs.IR] for this version)
-
-
-> Abstract: Recommender systems have been widely applied to assist user's decision making
-by providing a list of personalized item recommendations. Context-aware
-recommender systems (CARS) additionally take context information into
-considering in the recommendation process, since user's tastes on the items may
-vary from contexts to contexts. Several context-aware recommendation algorithms
-have been proposed and developed to improve the quality of recommendations.
-However, there are limited research which explore and discuss the capability of
-interpreting the contextual effects by the recommendation models. In this
-paper, we specifically focus on different contextual modeling approaches,
-reshape the structure of the models, and exploit how to utilize the existing
-contextual modeling to interpret the contextual effects in the recommender
-systems. We compare the explanations of contextual effects, as well as the
-recommendation performance over two-real world data sets in order to examine
-the quality of interpretations.
 
 
 ## [MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural  Networks](https://arxiv.org/abs/1711.06788)
@@ -4903,68 +3408,6 @@ regularization yields models that are easier for humans to simulate than
 simpler L1 or L2 penalties without sacrificing predictive power.
 
 
-## [Low-dimensional Embeddings for Interpretable Anchor-based Topic  Inference](https://arxiv.org/abs/1711.06826)
-[(PDF)](https://arxiv.org/pdf/1711.06826)
-
-`Authors:Moontae Lee, David Mimno`
-
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1711.06826 [cs.CL]
-
- 
-(or arXiv:1711.06826v1 [cs.CL] for this version)
-
-
-> Abstract: The anchor words algorithm performs provably efficient topic model inference
-by finding an approximate convex hull in a high-dimensional word co-occurrence
-space. However, the existing greedy algorithm often selects poor anchor words,
-reducing topic quality and interpretability. Rather than finding an approximate
-convex hull in a high-dimensional space, we propose to find an exact convex
-hull in a visualizable 2- or 3-dimensional space. Such low-dimensional
-embeddings both improve topics and clearly show users why the algorithm selects
-certain words.
-
-
-## [Abstract Interpretation of Binary Code with Memory Accesses using  Polyhedra](https://arxiv.org/abs/1711.07257)
-[(PDF)](https://arxiv.org/pdf/1711.07257)
-
-`Authors:Clément Ballabriga, Julien Forget, Giuseppe Lipari`
-
-
-Comments:
-
-An earlier version of this paper has been submitted to TACAS 2018 (this http URL) for peer-review. Compared to the submitted paper, this version contains more up-to-date benchmarks in Section 6
-
-Subjects:
-
-Programming Languages (cs.PL)
-
-
-Cite as:
-
-arXiv:1711.07257 [cs.PL]
-
- 
-(or arXiv:1711.07257v1 [cs.PL] for this version)
-
-
-> Abstract: In this paper we propose a novel methodology for static analysis of binary
-code using abstract interpretation. We use an abstract domain based on
-polyhedra and two mapping functions that associate polyhedra variables with
-registers and memory. We demonstrate our methodology to the problem of
-computing upper bounds to loop iterations in the code. This problem is
-particularly important in the domain of Worst-Case Execution Time (WCET)
-analysis of safety-critical real-time code. However, our approach is general
-and it can applied to other static analysis problems.
-
-
 ## [The Promise and Peril of Human Evaluation for Model Interpretability](https://arxiv.org/abs/1711.07414)
 [(PDF)](https://arxiv.org/pdf/1711.07414)
 
@@ -5000,43 +3443,6 @@ functional metrics could perpetuate implicit cognitive bias in explanations
 that threaten transparency. Finally, we propose two potential research
 directions to disambiguate cognitive function and explanation models, retaining
 control over the tradeoff between accuracy and interpretability.
-
-
-## [Vision-and-Language Navigation: Interpreting visually-grounded  navigation instructions in real environments](https://arxiv.org/abs/1711.07280)
-[(PDF)](https://arxiv.org/pdf/1711.07280)
-
-`Authors:Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel`
-
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Robotics (cs.RO)
-
-
-Cite as:
-
-arXiv:1711.07280 [cs.CV]
-
- 
-(or arXiv:1711.07280v2 [cs.CV] for this version)
-
-
-> Abstract: A robot that can carry out a natural-language instruction has been a dream
-since before the Jetsons cartoon series imagined a life of leisure mediated by
-a fleet of attentive robot helpers. It is a dream that remains stubbornly
-distant. However, recent advances in vision and language methods have made
-incredible progress in closely related areas. This is significant because a
-robot interpreting a natural-language navigation instruction on the basis of
-what it sees is carrying out a vision and language process that is similar to
-Visual Question Answering. Both tasks can be interpreted as visually grounded
-sequence-to-sequence translation problems, and many of the same methods are
-applicable. To enable and encourage the application of vision and language
-methods to the problem of interpreting visually-grounded navigation
-instructions, we present the Matterport3D Simulator -- a large-scale
-reinforcement learning environment based on real imagery. Using this simulator,
-which can in future support a range of embodied vision and language tasks, we
-provide the first benchmark dataset for visually-grounded natural language
-navigation in real buildings -- the Room-to-Room (R2R) dataset.
 
 
 ## [Unleashing the Potential of CNNs for Interpretable Few-Shot Learning](https://arxiv.org/abs/1711.08277)
@@ -5208,48 +3614,6 @@ predictions. We conclude by discussing this relationship between
 interpretability and robustness in deep neural networks.
 
 
-## [Contextual Outlier Interpretation](https://arxiv.org/abs/1711.10589)
-[(PDF)](https://arxiv.org/pdf/1711.10589)
-
-`Authors:Ninghao Liu, Donghwa Shin, Xia Hu`
-
-
-Subjects:
-
-Learning (cs.LG); Machine Learning (stat.ML)
-
-
-Cite as:
-
-arXiv:1711.10589 [cs.LG]
-
- 
-(or arXiv:1711.10589v1 [cs.LG] for this version)
-
-
-> Abstract: Outlier detection plays an essential role in many data-driven applications to
-identify isolated instances that are different from the majority. While many
-statistical learning and data mining techniques have been used for developing
-more effective outlier detection algorithms, the interpretation of detected
-outliers does not receive much attention. Interpretation is becoming
-increasingly important to help people trust and evaluate the developed models
-through providing intrinsic reasons why the certain outliers are chosen. It is
-difficult, if not impossible, to simply apply feature selection for explaining
-outliers due to the distinct characteristics of various detection models,
-complicated structures of data in certain applications, and imbalanced
-distribution of outliers and normal instances. In addition, the role of
-contrastive contexts where outliers locate, as well as the relation between
-outliers and contexts, are usually overlooked in interpretation. To tackle the
-issues above, in this paper, we propose a novel Contextual Outlier
-INterpretation (COIN) method to explain the abnormality of existing outliers
-spotted by detectors. The interpretability for an outlier is achieved from
-three aspects: outlierness score, attributes that contribute to the
-abnormality, and contextual description of its neighborhoods. Experimental
-results on various types of datasets demonstrate the flexibility and
-effectiveness of the proposed framework compared with existing interpretation
-approaches.
-
-
 ## [Interpretable Convolutional Neural Networks for Effective Translation  Initiation Site Prediction](https://arxiv.org/abs/1711.09558)
 [(PDF)](https://arxiv.org/pdf/1711.09558)
 
@@ -5330,84 +3694,6 @@ results show that the proposed method outperforms the state-of-the-art methods
 in gender and age estimation.
 
 
-## [Latent Factor Interpretations for Collaborative Filtering](https://arxiv.org/abs/1711.10816)
-[(PDF)](https://arxiv.org/pdf/1711.10816)
-
-`Authors:Anupam Datta, Sophia Kovaleva, Piotr Mardziel, Shayak Sen`
-
-
-Subjects:
-
-Information Retrieval (cs.IR)
-
-
-Cite as:
-
-arXiv:1711.10816 [cs.IR]
-
- 
-(or arXiv:1711.10816v1 [cs.IR] for this version)
-
-
-> Abstract: Many machine learning systems utilize latent factors as internal
-representations for making predictions. However, since these latent factors are
-largely uninterpreted, predictions made using them are opaque. Collaborative
-filtering via matrix factorization is a prime example of such an algorithm that
-uses uninterpreted latent features, and yet has seen widespread adoption for
-many recommendation tasks. We present Latent Factor Interpretation (LFI), a
-method for interpreting models by leveraging interpretations of latent factors
-in terms of human-understandable features. The interpretation of latent factors
-can then replace the uninterpreted latent factors, resulting in a new model
-that expresses predictions in terms of interpretable features. This new model
-can then be interpreted using recently developed model explanation techniques.
-In this paper, we develop LFI for collaborative filtering based recommender
-systems, which are particularly challenging from an interpretation perspective.
-We illustrate the use of LFI interpretations on the MovieLens dataset
-demonstrating that latent factors can be predicted with enough accuracy for
-accurately replicating the predictions of the true model. Further, we
-demonstrate the accuracy of interpretations by applying the methodology to a
-collaborative recommender system using DB tropes and IMDB data and synthetic
-user preferences.
-
-
-## [Structured learning and detailed interpretation of minimal object images](https://arxiv.org/abs/1711.11151)
-[(PDF)](https://arxiv.org/pdf/1711.11151)
-
-`Authors:Guy Ben-Yosef, Liav Assif, Shimon Ullamn`
-
-
-Comments:
-
-Accepted to Workshop on Mutual Benefits of Cognitive and Computer Vision, at the International Conference on Computer Vision. Venice, Italy, 2017
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV)
-
-
-Cite as:
-
-arXiv:1711.11151 [cs.CV]
-
- 
-(or arXiv:1711.11151v1 [cs.CV] for this version)
-
-
-> Abstract: We model the process of human full interpretation of object images, namely
-the ability to identify and localize all semantic features and parts that are
-recognized by human observers. The task is approached by dividing the
-interpretation of the complete object to the interpretation of multiple reduced
-but interpretable local regions. We model interpretation by a structured
-learning framework, in which there are primitive components and relations that
-play a useful role in local interpretation by humans. To identify useful
-components and relations used in the interpretation process, we consider the
-interpretation of minimal configurations, namely reduced local regions that are
-minimal in the sense that further reduction will turn them unrecognizable and
-uninterpretable. We show experimental results of our model, and results of
-predicting and testing relations that were useful to the model via transformed
-minimal images.
-
-
 ## [An interpretable latent variable model for attribute applicability in  the Amazon catalogue](https://arxiv.org/abs/1712.00126)
 [(PDF)](https://arxiv.org/pdf/1712.00126)
 
@@ -5446,46 +3732,6 @@ Preliminary results show that the model improves over the baseline in 17 out of
 19 product groups and provides qualitatively reasonable predictions.
 
 
-## [Optimizing colormaps with consideration for color vision deficiency to  enable accurate interpretation of scientific data](https://arxiv.org/abs/1712.01662)
-[(PDF)](https://arxiv.org/pdf/1712.01662)
-
-`Authors:Jamie R. Nuñez, Christopher R. Anderton, Ryan S. Renslow`
-
-
-Subjects:
-
-Computer Vision and Pattern Recognition (cs.CV); Other Quantitative Biology (q-bio.OT)
-
-
-Cite as:
-
-arXiv:1712.01662 [cs.CV]
-
- 
-(or arXiv:1712.01662v2 [cs.CV] for this version)
-
-
-> Abstract: Color vision deficiency (CVD) affects 8.5% of the population and leads to a
-different visual perception of colors. Though this has been known for decades,
-colormaps with many colors across the visual spectra are often used to
-represent data, leading to the potential for misinterpretation or difficulty
-with interpretation by someone with this deficiency. Until the creation of the
-module presented here, there were no colormaps mathematically optimized for CVD
-using modern color appearance models. While there have been some attempts to
-make aesthetically pleasing or subjectively tolerable colormaps for those with
-CVD, our goal was to make optimized colormaps for the most accurate perception
-of scientific data by as many viewers as possible. We developed a Python
-module, cmaputil, to create CVD-optimized colormaps, which imports colormaps
-and modifies them to be perceptually uniform in CVD-safe colorspace while
-linearizing and maximizing the brightness range. The module is made available
-to the science community to enable others to easily create their own
-CVD-optimized colormaps. Here, we present an example CVD-optimized colormap
-created with this module that is optimized for viewing by those without a CVD
-as well as those with red-green colorblindness. This colormap, cividis, enables
-nearly-identical visual-data interpretation to both groups, is perceptually
-uniform in hue and brightness, and increases in brightness linearly.
-
-
 ## [Where Classification Fails, Interpretation Rises](https://arxiv.org/abs/1712.00558)
 [(PDF)](https://arxiv.org/pdf/1712.00558)
 
@@ -5509,8 +3755,7 @@ arXiv:1712.00558 [cs.LG]
 (or arXiv:1712.00558v1 [cs.LG] for this version)
 
 
-> Abstract: An intriguing property of deep neural networks is their inherent
-vulnerability to adversarial inputs, which significantly hinders their
+> Abstract: An intriguing property of deep neural networks is their inherent vulnerability to adversarial inputs, which significantly hinders their
 application in security-critical domains. Most existing detection methods
 attempt to use carefully engineered patterns to distinguish adversarial inputs
 from their genuine counterparts, which however can often be circumvented by
@@ -5522,72 +3767,6 @@ that contrasts an input's interpretation against its classification. We
 validate the efficacy of this framework through extensive experiments using
 benchmark datasets and attacks. We believe that this work opens a new direction
 for designing adversarial input detection methods.
-
-
-## [Inducing Interpretability in Knowledge Graph Embeddings](https://arxiv.org/abs/1712.03547)
-[(PDF)](https://arxiv.org/pdf/1712.03547)
-
-`Authors:Chandrahas, Tathagata Sengupta, Cibi Pragadeesh, Partha Pratim Talukdar`
-
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1712.03547 [cs.CL]
-
- 
-(or arXiv:1712.03547v1 [cs.CL] for this version)
-
-
-> Abstract: We study the problem of inducing interpretability in KG embeddings.
-Specifically, we explore the Universal Schema (Riedel et al., 2013) and propose
-a method to induce interpretability. There have been many vector space models
-proposed for the problem, however, most of these methods don't address the
-interpretability (semantics) of individual dimensions. In this work, we study
-this problem and propose a method for inducing interpretability in KG
-embeddings using entity co-occurrence statistics. The proposed method
-significantly improves the interpretability, while maintaining comparable
-performance in other KG tasks.
-
-
-## [Learning Interpretable Spatial Operations in a Rich 3D Blocks World](https://arxiv.org/abs/1712.03463)
-[(PDF)](https://arxiv.org/pdf/1712.03463)
-
-`Authors:Yonatan Bisk, Kevin J. Shih, Yejin Choi, Daniel Marcu`
-
-
-Comments:
-
-AAAI 2018
-
-Subjects:
-
-Computation and Language (cs.CL)
-
-
-Cite as:
-
-arXiv:1712.03463 [cs.CL]
-
- 
-(or arXiv:1712.03463v1 [cs.CL] for this version)
-
-
-> Abstract: In this paper, we study the problem of mapping natural language instructions
-to complex spatial actions in a 3D blocks world. We first introduce a new
-dataset that pairs complex 3D spatial operations to rich natural language
-descriptions that require complex spatial and pragmatic interpretations such as
-"mirroring", "twisting", and "balancing". This dataset, built on the simulation
-environment of Bisk, Yuret, and Marcu (2016), attains language that is
-significantly richer and more complex, while also doubling the size of the
-original dataset in the 2D environment with 100 new world configurations and
-250,000 tokens. In addition, we propose a new neural architecture that achieves
-competitive results while automatically discovering an inventory of
-interpretable spatial operations (Figure 5)
 
 
 ## [SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for  Predicting Chemical Properties](https://arxiv.org/abs/1712.02034)
